@@ -4,6 +4,23 @@ An end-to-end ETL and sales/CRM analytics project: extracting data from two sepa
 
 📊 **[Download the dashboard](D2C_Sales_Performance_Competitive_Pricing_Dashboard.xlsx)**
 
+## Dashboard preview
+
+### Executive dashboard — KPI cards + 5 charts
+![Executive Dashboard](screenshots/01_executive_dashboard.png)
+
+### Sales pipeline analysis
+![Pipeline Analysis](screenshots/02_pipeline_analysis.png)
+
+### Competitive pricing benchmark
+![Competitor Benchmark](screenshots/03_competitor_benchmark.png)
+
+### Data cleaning log — ETL transform step
+![Data Cleaning Log](screenshots/04_data_cleaning_log.png)
+
+### CRM clean — live formula view
+![CRM Clean](screenshots/05_crm_clean.png)
+
 ## What this demonstrates
 
 - **ETL across multiple sources** — a synthetic CRM export (850 deals) and a competitor pricing feed (42 price points across 6 brands), each with realistic data-quality issues
