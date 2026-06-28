@@ -1,0 +1,43 @@
+Product Line,Competitor,List Price (EUR),Online Rating (out of 5),Delivery Time (Days)
+Smart Ovens,Bosch/Siemens (Own),899,3.6,7
+Smart Ovens,Miele,1035.02,3.8,4
+Smart Ovens,AEG/Electrolux,1023.74,4.0,7
+Smart Ovens,Philips,941.62,4.0,10
+Smart Ovens,Beko,843.85,4.3,2
+Smart Ovens,Samsung,1080.14,3.8,10
+Smart Ovens,LG,969.83,3.6,10
+Coffee Systems,Bosch/Siemens (Own),549,4.6,3
+Coffee Systems,Miele,616.53,4.7,2
+Coffee Systems,AEG/Electrolux,672.51,4.3,4
+Coffee Systems,Philips,621.41,4.8,3
+Coffee Systems,Beko,576.14,3.8,3
+Coffee Systems,Samsung,495.44,4.3,4
+Coffee Systems,LG,660.66,4.5,7
+Cordless Vacuums,Bosch/Siemens (Own),379,4.8,4
+Cordless Vacuums,Miele,383.87,4.5,5
+Cordless Vacuums,AEG/Electrolux,321.81,4.1,7
+Cordless Vacuums,Philips,439.67,3.8,4
+Cordless Vacuums,Beko,424.32,3.8,2
+Cordless Vacuums,Samsung,466.55,3.7,10
+Cordless Vacuums,LG,341.78,4.6,5
+Dishwashers,Bosch/Siemens (Own),749,4.4,7
+Dishwashers,Miele,927.08,3.8,7
+Dishwashers,AEG/Electrolux,737.9,4.5,5
+Dishwashers,Philips,809.75,3.8,2
+Dishwashers,Beko,665.71,3.9,10
+Dishwashers,Samsung,617.03,4.7,7
+Dishwashers,LG,760.86,4.4,7
+Washing Machines,Bosch/Siemens (Own),699,3.9,3
+Washing Machines,Miele,662.26,3.9,2
+Washing Machines,AEG/Electrolux,624.61,3.7,3
+Washing Machines,Philips,660.9,4.4,4
+Washing Machines,Beko,851.88,3.9,2
+Washing Machines,Samsung,766.27,3.9,3
+Washing Machines,LG,733.86,3.6,4
+Small Kitchen Appliances,Bosch/Siemens (Own),129,4.4,4
+Small Kitchen Appliances,Miele,123.78,4.7,7
+Small Kitchen Appliances,AEG/Electrolux,120.43,3.8,7
+Small Kitchen Appliances,Philips,122.14,4.8,10
+Small Kitchen Appliances,Beko,151.04,4.6,3
+Small Kitchen Appliances,Samsung,146.3,3.9,4
+Small Kitchen Appliances,LG,159.67,4.2,7

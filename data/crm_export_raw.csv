@@ -1,0 +1,851 @@
+Deal ID,Created Date,Closed Date,Region,Product Line,Lead Source,Sales Rep,Stage,Deal Value (EUR),Discount %,Sales Cycle (Days)
+D-10001,2025-09-08,2025-09-27,Southern Europe,Smart Ovens,Web-shop Organic,J. Murphy,Closed Won,948.63,0.1,19
+D-10002,2025-08-27,2025-09-03,Benelux,Smart Ovens,Web-shop Organic,S. Andersson,Closed Lost,769.64,0.15,7
+D-10003,2026-04-05,2026-04-26,Southern Europe,Small Kitchen Appliances,Social Media Ads,S. Andersson,Closed Lost,267.12,0,21
+D-10004,2025-04-15,2025-05-05,France,Coffee Systems,Web-shop Organic,P. Rossi,Closed Won,478.86,0.1,20
+D-10005,2026-01-23,2026-02-09,France,Smart Ovens,Affiliate Partner,L. Dubois,Closed Won,947.23,0.1,17
+D-10006,2025-10-24,,UK & Ireland,Small Kitchen Appliances,Web-shop Organic,S. Andersson,Qualified,135.03,0.05,
+D-10007,2025-06-16,2025-07-19,France,Dishwashers,Affiliate Partner,P. Rossi,Closed Won,672.74,0.15,33
+D-10008,2025-09-08,2025-09-11,Southern Europe,Small Kitchen Appliances,Web-shop Organic,M. Hoffmann,Closed Won,385.92,0,3
+D-10009,2025-08-23,,Southern Europe,Cordless Vacuums,Email Campaign,A. Becker,Proposal Sent,784.65,0,
+D-10010,2025-08-06,,DACH,Coffee Systems,Retail Referral,P. Rossi,Negotiation,1033.21,0,
+D-10011,2026-03-15,,France,Coffee Systems,Web-shop Organic,J. Murphy,Qualified,517.08,0,
+D-10012,2025-04-23,2025-06-01,Nordics,Dishwashers,Web-shop Organic,A. Becker,Closed Won,1328.42,0.1,39
+D-10013,2025-09-15,,DACH,Dishwashers,Paid Search,,Qualified,784.94,0.15,
+D-10014,2025-12-15,2025-12-26,Southern Europe,Smart Ovens,Affiliate Partner,J. Murphy,Closed Won,961.37,0.1,11
+D-10015,2025-11-02,,North America,Coffee Systems,Social Media Ads,L. Dubois,Proposal Sent,530.75,0,
+D-10016,2025-11-28,2025-12-22,France,Coffee Systems,Social Media Ads,A. Becker,Closed Lost,480.78,0.2,24
+D-10017,2025-03-22,2025-04-08,North America,Cordless Vacuums,Web-shop Organic,S. Andersson,Closed Won,388.45,0,17
+D-10018,2025-09-29,2025-10-20,Southern Europe,Dishwashers,Retail Referral,M. Hoffmann,Closed Lost,741.15,0.1,21
+D-10019,2026-02-13,,North America,Small Kitchen Appliances,Affiliate Partner,J. Murphy,Qualified,257.86,0.1,
+D-10020,2025-12-13,2025-12-22,Benelux,Smart Ovens,Web-shop Organic,L. Dubois,Closed Won,765.64,0,9
+D-10021,2025-09-01,2025-09-18,DACH,Smart Ovens,Retail Referral,L. Dubois,Closed Won,2593.56,0,17
+D-10022,2026-04-30,,Southern Europe,Washing Machines,Social Media Ads,S. Andersson,Proposal Sent,624.76,0.15,
+D-10023,2025-02-25,,Benelux,Cordless Vacuums,Paid Search,T. Wagner,Negotiation,407.94,0,
+D-10024,2025-09-12,2025-09-28,Benelux,Small Kitchen Appliances,Paid Search,L. Dubois,Closed Won,230.19,0,16
+D-10025,2025-02-21,,North America,Smart Ovens,Paid Search,L. Dubois,Negotiation,875.93,0,
+D-10026,2026-05-08,2026-05-27,North America,Coffee Systems,Web-shop Organic,T. Wagner,Closed Won,517.29,0,19
+D-10027,2026-04-11,2026-04-27,Benelux,Smart Ovens,Trade Show,J. Murphy,Closed Won,1852.25,0,16
+D-10028,2025-03-04,,UK & Ireland,Cordless Vacuums,Web-shop Organic,A. Becker,Negotiation,981.4,0.05,
+D-10029,2025-07-10,2025-07-17,Nordics,Washing Machines,Web-shop Organic,L. Dubois,Closed Won,605.08,0.05,7
+D-10030,2025-03-25,2025-04-05,DACH,Washing Machines,Web-shop Organic,A. Becker,Closed Lost,744.42,0.15,11
+D-10031,2025-05-15,,Southern Europe,Cordless Vacuums,Web-shop Organic,K. Nilsson,Negotiation,348.3,0.2,
+D-10032,2025-03-17,2025-04-01,DACH,Smart Ovens,Social Media Ads,L. Dubois,Closed Lost,868.75,0,15
+D-10033,2026-03-25,,DACH,Coffee Systems,Paid Search,M. Hoffmann,Proposal Sent,1666.46,0.2,
+D-10034,2025-04-17,,Southern Europe,Washing Machines,Web-shop Organic,J. Murphy,Qualified,615.74,0,
+D-10035,2025-08-04,,Southern Europe,Washing Machines,Web-shop Organic,J. Murphy,Negotiation,626.88,0.1,
+D-10036,2025-04-05,,Benelux,Cordless Vacuums,Retail Referral,A. Becker,Negotiation,394.44,0,
+D-10037,2025-06-15,,France,Coffee Systems,Affiliate Partner,J. Murphy,Negotiation,1072.62,0.1,
+D-10038,2025-02-06,,DACH,Smart Ovens,Web-shop Organic,M. Hoffmann,Proposal Sent,884.6,0.05,
+D-10039,2026-01-02,2026-01-23,UK & Ireland,Smart Ovens,Paid Search,A. Becker,Closed Won,1850.91,0.1,21
+D-10040,2025-06-16,,Southern Europe,Coffee Systems,Retail Referral,S. Andersson,Qualified,1138.05,0,
+D-10041,2025-09-12,2025-10-07,UK & Ireland,Small Kitchen Appliances,Retail Referral,K. Nilsson,Closed Won,133.01,0.05,25
+D-10042,2025-07-24,,North America,Smart Ovens,Retail Referral,S. Andersson,Proposal Sent,859.33,0.2,
+D-10043,2026-02-13,2026-03-21,North America,Coffee Systems,Web-shop Organic,S. Andersson,Closed Won,1505.69,0.05,36
+D-10044,2025-04-29,,Southern Europe,Washing Machines,Paid Search,A. Becker,Proposal Sent,1908.44,0,
+D-10045,2025-11-18,2025-11-21,DACH,Smart Ovens,Social Media Ads,P. Rossi,Closed Lost,967.66,0.05,3
+D-10046,2025-01-02,2025-01-27,Nordics,Coffee Systems,Paid Search,K. Nilsson,Closed Lost,585.38,0,25
+D-10047,2025-11-18,,Benelux,Smart Ovens,Retail Referral,P. Rossi,Negotiation,789.92,0.1,
+D-10048,2025-10-30,2025-11-07,France,Small Kitchen Appliances,Paid Search,K. Nilsson,Closed Lost,230.68,0.15,8
+D-10049,2026-02-20,2026-03-20,Southern Europe,Coffee Systems,Social Media Ads,J. Murphy,Closed Lost,1562.8,0.1,28
+D-10050,2025-08-07,2025-08-28,Southern Europe,Cordless Vacuums,Social Media Ads,T. Wagner,Closed Lost,391.34,0.15,21
+D-10051,2025-04-06,,DACH,Cordless Vacuums,Social Media Ads,P. Rossi,Proposal Sent,387.63,0,
+D-10052,2025-09-08,,North America,Coffee Systems,Web-shop Organic,A. Becker,Qualified,543.84,0.05,
+D-10053,2026-05-22,2026-06-01,Benelux,Small Kitchen Appliances,Social Media Ads,K. Nilsson,Closed Lost,136.14,0.2,29
+D-10054,2025-02-21,2025-03-24,Benelux,Coffee Systems,Web-shop Organic,T. Wagner,Closed Lost,582.5,0.05,31
+D-10055,2026-03-30,2026-04-17,UK & Ireland,Dishwashers,Affiliate Partner,P. Rossi,Closed Lost,2339.2,0.05,18
+D-10056,2025-09-23,,UK & Ireland,Small Kitchen Appliances,Retail Referral,T. Wagner,Proposal Sent,134.57,0.2,
+D-10057,2025-10-09,2025-10-19,North America,Washing Machines,Social Media Ads,S. Andersson,Closed Lost,708.87,0,10
+D-10058,2025-05-22,2025-06-08,France,Cordless Vacuums,Retail Referral,L. Dubois,Closed Won,681.6,0.05,17
+D-10059,2025-07-31,,France,Washing Machines,Social Media Ads,A. Becker,Proposal Sent,1970.3,0.15,
+D-10060,2025-12-27,2026-01-20,DACH,Washing Machines,Paid Search,A. Becker,Closed Won,1313.7,0.1,24
+D-10061,2026-05-15,2026-06-01,Southern Europe,Small Kitchen Appliances,Social Media Ads,S. Andersson,Closed Won,239.25,0.15,18
+D-10062,2026-02-08,2026-03-01,UK & Ireland,Dishwashers,Retail Referral,A. Becker,Closed Lost,750.86,0.15,21
+D-10063,2025-02-21,2025-03-09,Benelux,Coffee Systems,Retail Referral,M. Hoffmann,Closed Won,1018.53,0,16
+D-10064,2026-04-27,2026-05-26,North America,Dishwashers,Paid Search,L. Dubois,Closed Won,729.58,0,29
+D-10065,2025-02-01,,Southern Europe,Smart Ovens,Email Campaign,A. Becker,Qualified,805.37,0.1,
+D-10066,2025-08-12,2025-09-01,UK & Ireland,Coffee Systems,Web-shop Organic,L. Dubois,Closed Lost,543.16,0.2,20
+D-10067,2025-01-27,,North America,Coffee Systems,Trade Show,L. Dubois,Qualified,1078.71,0.05,
+D-10068,2025-04-15,,Southern Europe,Coffee Systems,Web-shop Organic,S. Andersson,Negotiation,1514.19,0.2,
+D-10069,2026-03-15,,DACH,Washing Machines,Email Campaign,P. Rossi,Negotiation,605.24,0,
+D-10070,2026-03-20,,North America,Dishwashers,Email Campaign,L. Dubois,Qualified,1492.28,0.15,
+D-10071,2026-05-11,2026-06-01,UK & Ireland,Dishwashers,Web-shop Organic,J. Murphy,Closed Lost,2336.7,0,29
+D-10072,2025-10-13,,France,Coffee Systems,Email Campaign,L. Dubois,Qualified,994.89,0.1,
+D-10073,2026-05-22,,Nordics,Small Kitchen Appliances,Paid Search,A. Becker,Proposal Sent,115.05,0,
+D-10074,2025-01-11,2025-02-03,North America,Cordless Vacuums,Paid Search,J. Murphy,Closed Lost,1072.74,0.2,23
+D-10075,2026-04-04,,UK & Ireland,Small Kitchen Appliances,Social Media Ads,T. Wagner,Proposal Sent,112.41,0.05,
+D-10076,2026-04-30,2026-05-27,Southern Europe,Coffee Systems,Paid Search,P. Rossi,Closed Lost,1530.17,0,27
+D-10077,2025-09-15,2025-10-04,France,Small Kitchen Appliances,Social Media Ads,J. Murphy,Closed Won,131.69,0,19
+D-10078,2025-04-13,,UK & Ireland,Small Kitchen Appliances,Social Media Ads,J. Murphy,Proposal Sent,118.44,0,
+D-10079,2025-10-08,2025-10-21,France,Smart Ovens,Affiliate Partner,M. Hoffmann,Closed Won,775.42,0.15,13
+D-10080,2025-04-16,,UK & Ireland,Small Kitchen Appliances,Retail Referral,T. Wagner,Proposal Sent,253.36,0.05,
+D-10081,2025-09-16,,Benelux,Cordless Vacuums,Web-shop Organic,A. Becker,Qualified,363.79,0.05,
+D-10082,2025-06-05,2025-06-18,BENELUX,Smart Ovens,Social Media Ads,A. Becker,Closed Won,969.66,0.1,13
+D-10083,2026-01-25,2026-02-12,North America,Dishwashers,Social Media Ads,S. Andersson,Closed Lost,2138.75,0.05,18
+D-10084,2025-08-01,2025-08-21,France,Washing Machines,Social Media Ads,L. Dubois,Closed Lost,1898.14,0,20
+D-10085,2025-10-26,2025-11-19,UK & Ireland,Smart Ovens,Paid Search,T. Wagner,Closed Won,823.72,0.15,24
+D-10086,2025-09-28,,North America,Dishwashers,Web-shop Organic,S. Andersson,Proposal Sent,744.33,0.05,
+D-10087,2025-09-30,,DACH,Washing Machines,Web-shop Organic,M. Hoffmann,Proposal Sent,605.63,0.2,
+D-10088,2026-03-26,2026-04-10,France,Washing Machines,Affiliate Partner,,Closed Won,2237.11,0.1,15
+D-10089,2026-03-19,,Benelux,Dishwashers,Web-shop Organic,A. Becker,Negotiation,740.65,0,
+D-10090,2025-10-03,2025-10-11,UK & Ireland,Small Kitchen Appliances,Email Campaign,A. Becker,Closed Lost,132.29,0.05,8
+D-10091,2025-07-05,,Nordics,Small Kitchen Appliances,Paid Search,J. Murphy,Qualified,245.17,0,
+D-10092,2025-04-18,,Benelux,Cordless Vacuums,Paid Search,P. Rossi,Proposal Sent,701.8,0,
+D-10093,2026-04-11,2026-05-01,Southern Europe,Dishwashers,Email Campaign,A. Becker,Closed Won,2309.21,0.2,20
+D-10094,2026-02-28,2026-03-25,DACH,Small Kitchen Appliances,Retail Referral,T. Wagner,Closed Won,375.1,0.2,25
+D-10095,2025-07-28,2025-08-23,Benelux,Small Kitchen Appliances,Paid Search,A. Becker,Closed Won,271.57,0,26
+D-10096,2025-06-12,2025-07-08,DACH,Small Kitchen Appliances,Social Media Ads,S. Andersson,Closed Won,220.11,0,26
+D-10097,2025-06-07,2025-06-25,UK & Ireland,Smart Ovens,Social Media Ads,,Closed Lost,1641.37,0.05,18
+D-10098,2025-07-15,,UK & Ireland,Dishwashers,Social Media Ads,K. Nilsson,Qualified,724.2,0.2,
+D-10099,2025-12-15,,DACH,Cordless Vacuums,Email Campaign,K. Nilsson,Qualified,366.41,0,
+D-10100,2025-06-02,2025-06-12,Southern Europe,Cordless Vacuums,Email Campaign,T. Wagner,Closed Lost,364.37,0.1,10
+D-10101,2025-07-13,,North America,Washing Machines,Paid Search,P. Rossi,Qualified,1265.09,0,
+D-10102,2026-01-26,2026-02-07,North America,Dishwashers,Web-shop Organic,T. Wagner,Closed Lost,1611.23,0,12
+D-10103,2025-04-13,,UK & Ireland,Washing Machines,Trade Show,P. Rossi,Proposal Sent,1994.81,0.05,
+D-10104,2025-03-18,2025-03-24,DACH,Small Kitchen Appliances,Web-shop Organic,M. Hoffmann,Closed Lost,138.41,0.1,6
+D-10105,2026-01-25,,Southern Europe,Dishwashers,Affiliate Partner,P. Rossi,Qualified,1489.26,0.2,
+D-10106,2025-10-22,,Nordics,Smart Ovens,Social Media Ads,S. Andersson,Qualified,1837.12,0,
+D-10107,2026-03-31,2026-04-20,North America,Small Kitchen Appliances,Affiliate Partner,L. Dubois,Closed Won,119.27,0,20
+D-10108,2026-02-26,2026-03-21,France,Cordless Vacuums,Paid Search,S. Andersson,Closed Lost,391.23,0,23
+D-10109,2026-05-25,,DACH,Washing Machines,Retail Referral,S. Andersson,Qualified,1234.32,0.15,
+D-10110,2026-04-22,,France,Dishwashers,Paid Search,A. Becker,Qualified,753.38,0,
+D-10111,2026-03-11,,Benelux,Cordless Vacuums,Trade Show,J. Murphy,Negotiation,361.97,0,
+D-10112,2026-01-03,2026-01-31,Benelux,Dishwashers,Web-shop Organic,K. Nilsson,Closed Lost,1610.24,0,28
+D-10113,2026-05-24,,DACH,Washing Machines,Retail Referral,A. Becker,Proposal Sent,739.31,0.1,
+D-10114,2025-09-14,,North America,Cordless Vacuums,Web-shop Organic,S. Andersson,Negotiation,384.99,0.15,
+D-10115,2026-03-28,2026-04-17,DACH,Small Kitchen Appliances,Affiliate Partner,J. Murphy,Closed Won,120.48,0,20
+D-10116,2025-07-25,2025-07-28,France,Cordless Vacuums,Affiliate Partner,M. Hoffmann,Closed Won,368.42,0.2,3
+D-10117,2025-10-30,,UK & Ireland,Cordless Vacuums,Retail Referral,T. Wagner,Negotiation,351.68,0.05,
+D-10118,2026-02-11,,DACH,Coffee Systems,Email Campaign,S. Andersson,Qualified,568.25,0,
+D-10119,2026-04-11,2026-04-26,North America,Dishwashers,Web-shop Organic,L. Dubois,Closed Won,765.68,0.1,15
+D-10120,2025-08-28,2025-09-02,Benelux,Small Kitchen Appliances,Retail Referral,L. Dubois,Closed Lost,358.15,0,5
+D-10121,2025-11-06,,Southern Europe,Smart Ovens,Affiliate Partner,,Negotiation,788.28,0,
+D-10122,2025-05-19,2025-05-25,France,Dishwashers,Web-shop Organic,S. Andersson,Closed Lost,2101.69,0.05,6
+D-10123,2025-04-12,,Nordics,Small Kitchen Appliances,Affiliate Partner,K. Nilsson,Proposal Sent,127.92,0,
+D-10124,2025-08-30,,Southern Europe,Cordless Vacuums,Web-shop Organic,T. Wagner,Proposal Sent,330.81,0.1,
+D-10125,2025-07-14,,Southern Europe,Cordless Vacuums,Web-shop Organic,J. Murphy,Qualified,809.75,0,
+D-10126,2025-02-21,,Southern Europe,Coffee Systems,Affiliate Partner,A. Becker,Proposal Sent,497.41,0.2,
+D-10127,2025-08-10,,Nordics,Coffee Systems,Web-shop Organic,S. Andersson,Proposal Sent,496.07,0.2,
+D-10128,2025-05-14,2025-06-05,Nordics,Smart Ovens,Paid Search,M. Hoffmann,Closed Lost,943.31,0,22
+D-10129,2025-06-28,2025-07-14,France,Coffee Systems,Social Media Ads,A. Becker,Closed Won,965.31,0.1,16
+D-10130,2026-01-06,2026-02-04,DACH,Small Kitchen Appliances,Web-shop Organic,T. Wagner,Closed Lost,137.7,0.15,29
+D-10131,2025-02-01,2025-02-28,North America,Small Kitchen Appliances,Social Media Ads,T. Wagner,Closed Won,247.72,0.05,27
+D-10132,2025-03-17,,Southern Europe,Smart Ovens,Social Media Ads,T. Wagner,Qualified,830.75,0,
+D-10133,2026-01-26,,UK & Ireland,Cordless Vacuums,Social Media Ads,P. Rossi,Qualified,736.8,0.1,
+D-10134,2025-08-09,2025-09-06,Nordics,Dishwashers,Web-shop Organic,L. Dubois,Closed Lost,1558.38,0.05,28
+D-10135,2025-09-19,2025-10-03,Southern Europe,Smart Ovens,Paid Search,P. Rossi,Closed Won,1591.42,0,14
+D-10136,2026-01-17,,DACH,Smart Ovens,Web-shop Organic,L. Dubois,Proposal Sent,2637.57,0.1,
+D-10137,2025-12-29,,Nordics,Cordless Vacuums,Affiliate Partner,K. Nilsson,Proposal Sent,808.38,0.2,
+D-10138,2025-12-27,2026-01-11,Southern Europe,Smart Ovens,Trade Show,,Closed Won,863.85,0,15
+D-10139,2025-08-20,,North America,Washing Machines,Paid Search,J. Murphy,Proposal Sent,2190.08,0.1,
+D-10140,2025-01-30,2025-02-19,Southern Europe,Small Kitchen Appliances,Social Media Ads,,Closed Won,130.5,0,20
+D-10141,2026-02-15,2026-03-06,France,Smart Ovens,Web-shop Organic,M. Hoffmann,Closed Won,2349.37,0,19
+D-10142,2026-01-14,2026-01-17,Benelux,Dishwashers,Social Media Ads,M. Hoffmann,Closed Won,2077.59,0.1,3
+D-10143,2025-03-25,2025-04-09,DACH,Smart Ovens,Web-shop Organic,A. Becker,Closed Won,855.55,0,15
+D-10144,2025-04-24,2025-05-06,North America,Washing Machines,Web-shop Organic,K. Nilsson,Closed Won,1406.46,0.1,12
+D-10145,2025-02-26,2025-03-17,Southern Europe,Cordless Vacuums,Web-shop Organic,K. Nilsson,Closed Won,334.11,0,19
+D-10146,2025-06-29,2025-07-25,France,Smart Ovens,Web-shop Organic,K. Nilsson,Closed Won,874.27,0.1,26
+D-10147,2026-02-11,,Nordics,Small Kitchen Appliances,Email Campaign,L. Dubois,Proposal Sent,110.91,0.05,
+D-10148,2026-03-04,2026-03-07,DACH,Cordless Vacuums,Social Media Ads,K. Nilsson,Closed Won,1011.4,0.05,3
+D-10149,2026-03-24,,North America,Small Kitchen Appliances,Retail Referral,L. Dubois,Proposal Sent,350.61,0.05,
+D-10150,2025-12-14,2026-01-17,Nordics,Smart Ovens,Paid Search,J. Murphy,Closed Won,925.25,0.1,34
+D-10151,2025-12-24,2026-01-26,Southern Europe,Smart Ovens,Social Media Ads,S. Andersson,Closed Won,794.69,0,33
+D-10152,2025-03-19,2025-04-05,France,Coffee Systems,Web-shop Organic,,Closed Won,1128.48,0.05,17
+D-10153,2025-11-27,,North America,Washing Machines,Email Campaign,T. Wagner,Proposal Sent,694.99,0.05,
+D-10154,2025-10-09,2025-10-27,DACH,Dishwashers,Paid Search,J. Murphy,Closed Lost,716.19,0,18
+D-10155,2026-01-29,2026-02-21,France,Cordless Vacuums,Web-shop Organic,,Closed Lost,370.47,0.05,23
+D-10156,2026-05-03,2026-06-01,North America,Washing Machines,Affiliate Partner,P. Rossi,Closed Lost,724.53,0.15,30
+D-10157,2025-09-11,,DACH,Washing Machines,Affiliate Partner,A. Becker,Negotiation,2260.41,0.1,
+D-10158,2026-02-01,2026-02-19,Nordics,Coffee Systems,Paid Search,J. Murphy,Closed Lost,1528.13,0,18
+D-10159,2025-12-04,2025-12-21,North America,Small Kitchen Appliances,Affiliate Partner,L. Dubois,Closed Won,393.37,0.2,17
+D-10160,2025-12-25,2026-01-08,UK & Ireland,Cordless Vacuums,Web-shop Organic,M. Hoffmann,Closed Won,758.68,0,14
+D-10161,2026-01-21,,Nordics,Small Kitchen Appliances,Retail Referral,J. Murphy,Negotiation,119.4,0.15,
+D-10162,2026-03-10,2026-04-07,Southern Europe,Small Kitchen Appliances,Trade Show,L. Dubois,Closed Lost,137.87,0.2,28
+D-10163,2025-06-08,2025-06-29,Benelux,Coffee Systems,Web-shop Organic,M. Hoffmann,Closed Won,573.28,0.1,21
+D-10164,2025-12-11,,North America,Washing Machines,Email Campaign,A. Becker,Proposal Sent,2080.53,0.05,
+D-10165,2026-03-25,2026-04-05,UK & Ireland,Coffee Systems,Web-shop Organic,M. Hoffmann,Closed Won,1767.24,0,11
+D-10166,2025-09-02,2025-10-03,North America,Small Kitchen Appliances,Email Campaign,S. Andersson,Closed Won,267.28,0.2,31
+D-10167,2026-04-18,,UK & Ireland,Cordless Vacuums,Affiliate Partner,T. Wagner,Proposal Sent,1169.94,0.1,
+D-10168,2025-09-14,2025-09-26,Benelux,Coffee Systems,Email Campaign,M. Hoffmann,Closed Won,1753.87,0.2,12
+D-10169,2025-10-07,2025-10-29,DACH,Cordless Vacuums,Web-shop Organic,M. Hoffmann,Closed Lost,733.8,0,22
+D-10170,2026-03-01,2026-03-15,UK & Ireland,Dishwashers,Retail Referral,A. Becker,Closed Won,807.98,0,14
+D-10171,2025-05-30,2025-06-19,DACH,Cordless Vacuums,Retail Referral,P. Rossi,Closed Won,694.31,0.15,20
+D-10172,2026-04-05,2026-04-27,North America,Coffee Systems,Email Campaign,T. Wagner,Closed Lost,493.88,0.1,22
+D-10173,2025-10-23,2025-11-12,Southern Europe,Washing Machines,Social Media Ads,L. Dubois,Closed Won,613.74,0.05,20
+D-10174,2026-05-27,2026-06-01,Southern Europe,Washing Machines,Social Media Ads,L. Dubois,Closed Lost,633.05,0,31
+D-10175,2026-03-03,2026-03-25,Benelux,Smart Ovens,Social Media Ads,S. Andersson,Closed Won,2706.95,0,22
+D-10176,2026-02-04,,DACH,Washing Machines,Social Media Ads,A. Becker,Proposal Sent,1202.3,0,
+D-10177,2025-12-20,2026-01-07,France,Small Kitchen Appliances,Web-shop Organic,L. Dubois,Closed Won,126.92,0,18
+D-10178,2026-04-21,,DACH,Cordless Vacuums,Social Media Ads,M. Hoffmann,Qualified,363.86,0.2,
+D-10179,2025-02-07,2025-02-24,UK & Ireland,Smart Ovens,Affiliate Partner,T. Wagner,Closed Won,773.21,0,17
+D-10180,2025-09-17,2025-10-03,France,Cordless Vacuums,Social Media Ads,T. Wagner,Closed Won,397.3,0.2,16
+D-10181,2026-03-24,,Southern Europe,Cordless Vacuums,Paid Search,P. Rossi,Qualified,773.89,0,
+D-10182,2025-10-01,,UK & Ireland,Dishwashers,Affiliate Partner,P. Rossi,Proposal Sent,761.9,0.05,
+D-10183,2025-04-16,2025-05-01,Nordics,Coffee Systems,Social Media Ads,P. Rossi,Closed Won,550.1,0.05,15
+D-10184,2025-12-26,2026-01-13,Nordics,Small Kitchen Appliances,Paid Search,T. Wagner,Closed Lost,255.79,0,18
+D-10185,2026-01-08,2026-01-11,Southern Europe,Smart Ovens,Web-shop Organic,,Closed Lost,919.21,0,3
+D-10186,2025-02-05,2025-02-27,UK & Ireland,Washing Machines,Affiliate Partner,T. Wagner,Closed Won,1957.12,0,22
+D-10187,2026-01-16,2026-02-18,Nordics,Coffee Systems,Affiliate Partner,P. Rossi,Closed Lost,476.36,0.1,33
+D-10188,2025-09-13,,France,Dishwashers,Paid Search,J. Murphy,Qualified,641.11,0.05,
+D-10189,2025-09-26,,Nordics,Dishwashers,Retail Referral,L. Dubois,Proposal Sent,757.93,0.1,
+D-10190,2025-07-24,2025-08-19,France,Small Kitchen Appliances,Retail Referral,T. Wagner,Closed Won,272.63,0,26
+D-10191,2025-12-22,,North America,Small Kitchen Appliances,Trade Show,P. Rossi,Negotiation,125.97,0,
+D-10192,2026-01-06,2026-01-19,North America,Coffee Systems,Affiliate Partner,M. Hoffmann,Closed Lost,481.97,0.2,13
+D-10193,2026-01-05,2026-01-14,UK & Ireland,Coffee Systems,Email Campaign,A. Becker,Closed Lost,1608.92,0,9
+D-10194,2026-02-25,,DACH,Cordless Vacuums,Paid Search,T. Wagner,Proposal Sent,393.92,0,
+D-10195,2025-12-19,2026-01-20,France,Small Kitchen Appliances,Web-shop Organic,T. Wagner,Closed Won,402.74,0.15,32
+D-10196,2026-03-20,2026-04-21,Nordics,Coffee Systems,Email Campaign,M. Hoffmann,Closed Lost,532.07,0,32
+D-10197,2025-12-21,,UK & Ireland,Cordless Vacuums,Retail Referral,S. Andersson,Qualified,367.38,0.2,
+D-10198,2025-05-09,2025-05-17,DACH,Cordless Vacuums,Web-shop Organic,J. Murphy,Closed Lost,375.71,0.1,8
+D-10199,2025-06-25,,Southern Europe,Coffee Systems,Social Media Ads,M. Hoffmann,Negotiation,1672.93,0,
+D-10200,2025-03-25,2025-04-07,North America,Washing Machines,Web-shop Organic,A. Becker,Closed Won,2096.5,0.05,13
+D-10201,2025-11-06,2025-11-17,Nordics,Small Kitchen Appliances,Web-shop Organic,J. Murphy,Closed Lost,267.05,0,11
+D-10202,2026-03-27,2026-04-08,Benelux,Smart Ovens,Affiliate Partner,M. Hoffmann,Closed Lost,793.86,0.15,12
+D-10203,2026-01-15,2026-02-06,North America,Cordless Vacuums,Trade Show,M. Hoffmann,Closed Lost,331.41,0.05,22
+D-10204,2025-04-10,2025-05-17,DACH,Cordless Vacuums,Paid Search,M. Hoffmann,Closed Won,358.6,0.2,37
+D-10205,2025-06-13,2025-06-27,France,Washing Machines,Affiliate Partner,S. Andersson,Closed Lost,1353.8,0,14
+D-10206,2026-04-14,,Benelux,Smart Ovens,Web-shop Organic,K. Nilsson,Qualified,808.64,0,
+D-10207,2025-10-20,2025-11-15,DACH,Cordless Vacuums,Social Media Ads,T. Wagner,Closed Lost,399.07,0.2,26
+D-10208,2025-07-19,2025-08-01,Benelux,Cordless Vacuums,Web-shop Organic,A. Becker,Closed Won,694.61,0.1,13
+D-10209,2025-05-12,,Benelux,Washing Machines,Paid Search,L. Dubois,Qualified,657.48,0.1,
+D-10210,2025-02-11,2025-03-09,France,Coffee Systems,Web-shop Organic,K. Nilsson,Closed Won,1052.94,0,26
+D-10211,2025-06-16,2025-07-13,Nordics,Washing Machines,Web-shop Organic,P. Rossi,Closed Lost,693.26,0.1,27
+D-10212,2025-11-03,2025-12-02,France,Washing Machines,Email Campaign,,Closed Lost,1223.54,0.1,29
+D-10213,2026-05-01,2026-05-22,France,Small Kitchen Appliances,Retail Referral,A. Becker,Closed Won,387.3,0.1,21
+D-10214,2025-06-24,2025-07-12,UK & Ireland,Small Kitchen Appliances,Web-shop Organic,T. Wagner,Closed Lost,120.93,0,18
+D-10215,2026-03-28,2026-04-02,Nordics,Small Kitchen Appliances,Web-shop Organic,A. Becker,Closed Won,114.14,0.05,5
+D-10216,2025-05-22,2025-05-25,Nordics,Washing Machines,Retail Referral,A. Becker,Closed Lost,1342.12,0,3
+D-10217,2025-12-29,,UK & Ireland,Dishwashers,Retail Referral,P. Rossi,Negotiation,786.12,0.1,
+D-10218,2025-11-02,2025-11-11,Benelux,Coffee Systems,Trade Show,J. Murphy,Closed Won,589.5,0.2,9
+D-10219,2025-11-21,2025-11-24,France,Small Kitchen Appliances,Web-shop Organic,T. Wagner,Closed Lost,131.06,0,3
+D-10220,2025-12-20,,Nordics,Small Kitchen Appliances,Social Media Ads,K. Nilsson,Qualified,133.52,0,
+D-10221,2025-09-20,,France,Small Kitchen Appliances,Web-shop Organic,T. Wagner,Negotiation,348.0,0,
+D-10222,2025-09-03,2025-09-16,Nordics,Small Kitchen Appliances,Paid Search,L. Dubois,Closed Won,388.57,0,13
+D-10223,2025-12-05,,Southern Europe,Coffee Systems,Web-shop Organic,K. Nilsson,Negotiation,479.35,0,
+D-10224,2026-05-04,,Nordics,Coffee Systems,Paid Search,T. Wagner,Negotiation,562.1,0,
+D-10225,2025-08-26,2025-09-12,France,Small Kitchen Appliances,Web-shop Organic,L. Dubois,Closed Lost,136.75,0.05,17
+D-10226,2026-02-11,,North America,Coffee Systems,Retail Referral,A. Becker,Proposal Sent,490.18,0,
+D-10227,2025-12-10,2025-12-13,DACH,Cordless Vacuums,Social Media Ads,L. Dubois,Closed Won,1225.11,0.1,3
+D-10228,2025-10-07,2025-11-01,Benelux,Coffee Systems,Retail Referral,T. Wagner,Closed Won,524.6,0.15,25
+D-10229,2025-07-17,2025-08-10,UK & Ireland,Smart Ovens,Affiliate Partner,J. Murphy,Closed Won,1882.35,0.2,24
+D-10230,2025-04-08,2025-05-04,BENELUX,Washing Machines,Paid Search,K. Nilsson,Closed Won,634.03,0.05,26
+D-10231,2025-11-06,2025-12-03,UK & Ireland,Dishwashers,Email Campaign,P. Rossi,Closed Lost,735.34,0.15,27
+D-10232,2026-04-22,2026-05-04,France,Small Kitchen Appliances,Web-shop Organic,L. Dubois,Closed Won,136.21,0.15,12
+D-10233,2026-01-12,2026-02-07,DACH,Small Kitchen Appliances,Retail Referral,J. Murphy,Closed Lost,116.15,0.05,26
+D-10234,2026-03-02,,UK & Ireland,Dishwashers,Affiliate Partner,P. Rossi,Negotiation,2381.69,0.2,
+D-10235,2026-04-03,2026-04-11,Southern Europe,Coffee Systems,Email Campaign,L. Dubois,Closed Lost,1442.46,0.1,8
+D-10236,2025-12-02,,UK & Ireland,Washing Machines,Social Media Ads,M. Hoffmann,Proposal Sent,665.18,0.15,
+D-10237,2025-02-26,2025-04-03,Nordics,Dishwashers,Web-shop Organic,T. Wagner,Closed Lost,1450.13,0.1,36
+D-10238,2025-01-23,2025-02-19,DACH,Washing Machines,Social Media Ads,J. Murphy,Closed Lost,687.13,0.05,27
+D-10239,2025-03-12,,France,Small Kitchen Appliances,Web-shop Organic,A. Becker,Qualified,123.66,0.05,
+D-10240,2026-01-19,,UK & Ireland,Coffee Systems,Email Campaign,K. Nilsson,Qualified,1029.89,0.05,
+D-10241,2025-12-23,2025-12-30,DACH,Small Kitchen Appliances,Trade Show,M. Hoffmann,Closed Won,278.22,0.1,7
+D-10242,2025-01-24,,UK & Ireland,Small Kitchen Appliances,Trade Show,A. Becker,Qualified,370.16,0.05,
+D-10243,2026-04-17,2026-05-04,Nordics,Dishwashers,Email Campaign,S. Andersson,Closed Won,761.55,0,17
+D-10244,2025-09-04,2025-10-15,North America,Small Kitchen Appliances,Paid Search,,Closed Won,112.64,0.05,41
+D-10245,2025-09-08,,Nordics,Small Kitchen Appliances,Affiliate Partner,A. Becker,Negotiation,121.59,0.1,
+D-10246,2025-08-28,,UK & Ireland,Smart Ovens,Web-shop Organic,J. Murphy,Proposal Sent,915.41,0.1,
+D-10247,2025-11-06,,Nordics,Small Kitchen Appliances,Email Campaign,S. Andersson,Proposal Sent,416.69,0,
+D-10248,2026-03-14,2026-04-11,Benelux,Cordless Vacuums,Paid Search,M. Hoffmann,Closed Lost,756.46,0.2,28
+D-10249,2025-06-02,2025-06-25,Nordics,Cordless Vacuums,Affiliate Partner,K. Nilsson,Closed Won,1014.54,0.05,23
+D-10250,2026-04-20,,UK & Ireland,Coffee Systems,Paid Search,M. Hoffmann,Qualified,1075.32,0.1,
+D-10251,2025-07-28,2025-08-26,Nordics,Coffee Systems,Paid Search,J. Murphy,Closed Won,1540.52,0.15,29
+D-10252,2025-02-10,,North America,Coffee Systems,Web-shop Organic,K. Nilsson,Proposal Sent,1471.23,0.15,
+D-10253,2025-12-07,2026-01-01,Southern Europe,Washing Machines,Web-shop Organic,S. Andersson,Closed Won,740.29,0,25
+D-10254,2025-09-06,,Southern Europe,Smart Ovens,Affiliate Partner,T. Wagner,Negotiation,1819.34,0,
+D-10255,2026-04-23,2026-05-09,Nordics,Cordless Vacuums,Email Campaign,,Closed Lost,733.7,0.05,16
+D-10256,2025-07-28,2025-08-23,DACH,Small Kitchen Appliances,Social Media Ads,P. Rossi,Closed Won,365.79,0.2,26
+D-10257,2026-03-04,2026-03-27,UK & Ireland,Small Kitchen Appliances,Web-shop Organic,J. Murphy,Closed Won,126.56,0.05,23
+D-10258,2025-09-21,,Nordics,Small Kitchen Appliances,Retail Referral,P. Rossi,Proposal Sent,248.29,0.05,
+D-10259,2025-05-24,,UK & Ireland,Small Kitchen Appliances,Email Campaign,M. Hoffmann,Negotiation,372.42,0.15,
+D-10260,2025-02-19,,DACH,Washing Machines,Web-shop Organic,L. Dubois,Proposal Sent,660.45,0,
+D-10261,2026-01-18,2026-02-14,Southern Europe,Coffee Systems,Web-shop Organic,,Closed Won,1641.53,0.05,27
+D-10262,2025-01-13,2025-02-01,Southern Europe,Dishwashers,Web-shop Organic,K. Nilsson,Closed Won,2058.11,0.2,19
+D-10263,2025-04-20,,Southern Europe,Small Kitchen Appliances,Paid Search,M. Hoffmann,Qualified,125.21,0,
+D-10264,2025-10-01,,Nordics,Washing Machines,Paid Search,P. Rossi,Proposal Sent,1213.71,0.05,
+D-10265,2025-11-04,,Nordics,Coffee Systems,Trade Show,S. Andersson,Negotiation,573.71,0,
+D-10266,2025-02-27,,Benelux,Dishwashers,Paid Search,T. Wagner,Negotiation,757.73,0.05,
+D-10267,2025-04-08,,North America,Dishwashers,Affiliate Partner,P. Rossi,Qualified,794.99,0,
+D-10268,2025-10-05,2025-10-15,North America,Small Kitchen Appliances,Retail Referral,T. Wagner,Closed Won,111.86,0.1,10
+D-10269,2025-01-17,,Nordics,Small Kitchen Appliances,Web-shop Organic,P. Rossi,Qualified,254.13,0,
+D-10270,2025-12-06,2025-12-25,France,Coffee Systems,Social Media Ads,K. Nilsson,Closed Lost,553.69,0.1,19
+D-10271,2025-08-26,,Southern Europe,Cordless Vacuums,Web-shop Organic,K. Nilsson,Proposal Sent,1055.52,0.1,
+D-10272,2026-04-07,2026-04-12,Benelux,Cordless Vacuums,Web-shop Organic,J. Murphy,Closed Lost,706.33,0.05,5
+D-10273,2025-03-29,,UK & Ireland,Small Kitchen Appliances,Social Media Ads,K. Nilsson,Proposal Sent,118.41,0.15,
+D-10274,2025-06-07,,DACH,Smart Ovens,Paid Search,K. Nilsson,Negotiation,829.63,0,
+D-10275,2025-04-15,2025-05-09,DACH,Cordless Vacuums,Paid Search,J. Murphy,Closed Won,741.01,0,24
+D-10276,2025-11-29,,DACH,Smart Ovens,Paid Search,L. Dubois,Proposal Sent,1533.4,0.05,
+D-10277,2025-06-23,,North America,Smart Ovens,Affiliate Partner,S. Andersson,Negotiation,799.2,0,
+D-10278,2026-03-22,2026-04-21,France,Dishwashers,Web-shop Organic,M. Hoffmann,Closed Won,688.29,0,30
+D-10279,2025-07-20,2025-08-10,France,Coffee Systems,Affiliate Partner,T. Wagner,Closed Lost,1549.84,0.05,21
+D-10280,2025-05-20,2025-06-10,North America,Cordless Vacuums,Paid Search,K. Nilsson,Closed Won,374.73,0.05,21
+D-10281,2025-10-26,,France,Coffee Systems,Trade Show,P. Rossi,Negotiation,1639.7,0.2,
+D-10282,2026-01-09,2026-01-18,UK & Ireland,Cordless Vacuums,Paid Search,K. Nilsson,Closed Won,1109.14,0,9
+D-10283,2026-03-25,,Southern Europe,Dishwashers,Retail Referral,S. Andersson,Proposal Sent,779.85,0.2,
+D-10284,2025-11-07,2025-11-23,North America,Dishwashers,Affiliate Partner,M. Hoffmann,Closed Won,1500.24,0.2,16
+D-10285,2026-02-15,2026-03-24,Benelux,Smart Ovens,Paid Search,T. Wagner,Closed Lost,850.64,0.2,37
+D-10286,2025-04-22,,France,Small Kitchen Appliances,Retail Referral,L. Dubois,Proposal Sent,129.16,0,
+D-10287,2025-12-06,,Southern Europe,Washing Machines,Web-shop Organic,K. Nilsson,Qualified,663.35,0,
+D-10288,2026-04-02,2026-04-14,France,Coffee Systems,Social Media Ads,S. Andersson,Closed Won,1575.36,0.15,12
+D-10289,2026-05-10,2026-05-13,Nordics,Coffee Systems,Paid Search,A. Becker,Closed Won,481.31,0,3
+D-10290,2026-05-10,2026-06-01,France,Cordless Vacuums,Social Media Ads,S. Andersson,Closed Won,661.32,0,32
+D-10291,2025-01-24,,DACH,Cordless Vacuums,Web-shop Organic,L. Dubois,Proposal Sent,378.63,0.15,
+D-10292,2025-12-05,2026-01-01,UK & Ireland,Washing Machines,Web-shop Organic,M. Hoffmann,Closed Lost,659.27,0,27
+D-10293,2025-07-22,2025-08-10,Southern Europe,Small Kitchen Appliances,Paid Search,A. Becker,Closed Lost,122.39,0.15,19
+D-10294,2025-04-15,,UK & Ireland,Coffee Systems,Paid Search,L. Dubois,Proposal Sent,534.44,0,
+D-10295,2025-11-17,2025-11-28,UK & Ireland,Dishwashers,Web-shop Organic,T. Wagner,Closed Lost,1393.17,0.1,11
+D-10296,2025-03-28,,UK & Ireland,Small Kitchen Appliances,Affiliate Partner,J. Murphy,Negotiation,118.94,0,
+D-10297,2026-02-02,2026-02-15,DACH,Coffee Systems,Paid Search,M. Hoffmann,Closed Lost,968.12,0.05,13
+D-10298,2025-06-20,2025-07-15,UK & Ireland,Dishwashers,Affiliate Partner,M. Hoffmann,Closed Lost,714.34,0.2,25
+D-10299,2026-01-29,,France,Smart Ovens,Social Media Ads,S. Andersson,Qualified,1737.32,0.05,
+D-10300,2026-05-16,2026-06-01,Southern Europe,Dishwashers,Paid Search,T. Wagner,Closed Won,734.05,0,27
+D-10301,2025-06-22,,DACH,Cordless Vacuums,Web-shop Organic,J. Murphy,Proposal Sent,742.92,0.1,
+D-10302,2026-01-11,2026-02-01,Nordics,Smart Ovens,Social Media Ads,J. Murphy,Closed Lost,855.41,0.05,21
+D-10303,2025-11-01,,DACH,Small Kitchen Appliances,Email Campaign,S. Andersson,Proposal Sent,110.61,0,
+D-10304,2025-08-31,2025-09-05,North America,Smart Ovens,Paid Search,L. Dubois,Closed Won,916.67,0.2,5
+D-10305,2025-05-23,,Southern Europe,Washing Machines,Affiliate Partner,M. Hoffmann,Proposal Sent,724.94,0.1,
+D-10306,2025-11-28,,France,Washing Machines,Paid Search,M. Hoffmann,Qualified,1923.59,0,
+D-10307,2025-05-19,,North America,Washing Machines,Trade Show,L. Dubois,Qualified,720.47,0,
+D-10308,2025-09-13,2025-10-01,North America,Small Kitchen Appliances,Web-shop Organic,M. Hoffmann,Closed Won,269.36,0.05,18
+D-10309,2026-01-20,2026-02-16,UK & Ireland,Washing Machines,Affiliate Partner,K. Nilsson,Closed Lost,696.02,0.05,27
+D-10310,2026-04-11,,Nordics,Small Kitchen Appliances,Paid Search,P. Rossi,Qualified,119.36,0.2,
+D-10311,2026-01-02,,North America,Small Kitchen Appliances,Web-shop Organic,T. Wagner,Proposal Sent,266.52,0,
+D-10312,2025-10-18,2025-10-28,Benelux,Coffee Systems,Social Media Ads,P. Rossi,Closed Won,527.93,0.15,10
+D-10313,2025-01-17,2025-02-01,North America,Smart Ovens,Web-shop Organic,T. Wagner,Closed Won,1882.97,0.05,15
+D-10314,2025-11-06,2025-12-03,DACH,Dishwashers,Web-shop Organic,M. Hoffmann,Closed Won,749.42,0,27
+D-10315,2025-02-23,2025-03-13,France,Small Kitchen Appliances,Retail Referral,,Closed Lost,118.71,0.05,18
+D-10316,2025-08-07,2025-09-01,Southern Europe,Smart Ovens,Affiliate Partner,A. Becker,Closed Lost,904.75,0,25
+D-10317,2025-05-16,2025-06-10,Southern Europe,Cordless Vacuums,Email Campaign,K. Nilsson,Closed Lost,342.11,0.15,25
+D-10318,2025-11-03,2025-11-26,North America,Smart Ovens,Web-shop Organic,P. Rossi,Closed Won,791.68,0,23
+D-10319,2026-03-27,2026-04-02,Nordics,Washing Machines,Web-shop Organic,M. Hoffmann,Closed Won,628.4,0.05,6
+D-10320,2025-03-30,,Nordics,Small Kitchen Appliances,Paid Search,S. Andersson,Qualified,113.8,0.1,
+D-10321,2025-11-19,,Southern Europe,Dishwashers,Paid Search,K. Nilsson,Proposal Sent,679.34,0,
+D-10322,2025-01-28,,Nordics,Washing Machines,Social Media Ads,J. Murphy,Proposal Sent,700.0,0,
+D-10323,2025-10-30,,Nordics,Washing Machines,Social Media Ads,K. Nilsson,Negotiation,720.16,0.05,
+D-10324,2025-01-13,,Benelux,Smart Ovens,Web-shop Organic,L. Dubois,Qualified,957.26,0.05,
+D-10325,2026-04-28,,North America,Washing Machines,Paid Search,M. Hoffmann,Qualified,718.0,0.1,
+D-10326,2025-03-03,,DACH,Smart Ovens,Paid Search,A. Becker,Qualified,846.44,0.15,
+D-10327,2026-02-16,2026-02-24,Southern Europe,Washing Machines,Email Campaign,K. Nilsson,Closed Won,638.76,0,8
+D-10328,2025-12-01,2025-12-19,Nordics,Coffee Systems,Trade Show,M. Hoffmann,Closed Lost,546.74,0,18
+D-10329,2025-03-01,2025-03-25,Southern Europe,Dishwashers,Affiliate Partner,S. Andersson,Closed Won,742.13,0,24
+D-10330,2025-05-03,2025-05-21,Southern Europe,Small Kitchen Appliances,Affiliate Partner,M. Hoffmann,Closed Won,113.72,0,18
+D-10331,2025-06-20,2025-07-10,Benelux,Cordless Vacuums,Social Media Ads,J. Murphy,Closed Won,386.04,0.2,20
+D-10332,2025-03-07,2025-03-10,DACH,Cordless Vacuums,Email Campaign,,Closed Won,407.15,0.05,3
+D-10333,2025-06-20,2025-07-10,Benelux,Washing Machines,Paid Search,T. Wagner,Closed Won,686.42,0,20
+D-10334,2025-09-08,2025-10-03,Southern Europe,Washing Machines,Web-shop Organic,A. Becker,Closed Won,652.67,0,25
+D-10335,2025-08-18,2025-08-26,North America,Smart Ovens,Social Media Ads,K. Nilsson,Closed Won,820.24,0.1,8
+D-10336,2025-07-03,2025-07-31,France,Smart Ovens,Social Media Ads,A. Becker,Closed Won,870.8,0.05,28
+D-10337,2025-12-02,2025-12-14,DACH,Dishwashers,Retail Referral,J. Murphy,Closed Won,686.88,0.15,12
+D-10338,2025-07-20,,Nordics,Coffee Systems,Social Media Ads,T. Wagner,Negotiation,535.66,0,
+D-10339,2025-01-10,,DACH,Dishwashers,Web-shop Organic,P. Rossi,Qualified,1273.8,0.2,
+D-10340,2025-09-01,2025-09-24,Southern Europe,Small Kitchen Appliances,Paid Search,S. Andersson,Closed Lost,138.17,0.15,23
+D-10341,2026-02-27,,France,Smart Ovens,Web-shop Organic,S. Andersson,Negotiation,841.17,0.1,
+D-10342,2025-03-18,2025-04-20,DACH,Washing Machines,Web-shop Organic,K. Nilsson,Closed Lost,615.16,0,33
+D-10343,2025-12-01,2025-12-27,North America,Cordless Vacuums,Retail Referral,K. Nilsson,Closed Won,345.86,0,26
+D-10344,2025-06-18,2025-07-07,UK & Ireland,Washing Machines,Web-shop Organic,L. Dubois,Closed Lost,651.75,0.05,19
+D-10345,2025-04-03,2025-04-28,France,Dishwashers,Paid Search,L. Dubois,Closed Won,2264.51,0,25
+D-10346,2025-12-31,2026-01-28,UK & Ireland,Cordless Vacuums,Web-shop Organic,S. Andersson,Closed Lost,393.64,0,28
+D-10347,2025-04-07,2025-04-30,Benelux,Dishwashers,Social Media Ads,S. Andersson,Closed Lost,775.14,0,23
+D-10348,2025-05-14,2025-05-23,DACH,Smart Ovens,Email Campaign,S. Andersson,Closed Won,958.01,0.1,9
+D-10349,2025-01-23,,Nordics,Cordless Vacuums,Retail Referral,L. Dubois,Qualified,678.78,0.2,
+D-10350,2025-05-06,2025-06-04,UK & Ireland,Smart Ovens,Retail Referral,P. Rossi,Closed Won,859.47,0.1,29
+D-10351,2026-01-27,,Benelux,Small Kitchen Appliances,Paid Search,A. Becker,Negotiation,114.78,0,
+D-10352,2025-02-05,2025-02-16,France,Cordless Vacuums,Paid Search,M. Hoffmann,Closed Lost,1096.92,0.05,11
+D-10353,2026-03-06,2026-03-18,DACH,Smart Ovens,Paid Search,M. Hoffmann,Closed Won,2841.21,0,12
+D-10354,2026-01-03,2026-01-25,Southern Europe,Washing Machines,Email Campaign,K. Nilsson,Closed Lost,685.09,0.05,22
+D-10355,2025-01-31,,France,Coffee Systems,Web-shop Organic,S. Andersson,Qualified,564.96,0.2,
+D-10356,2025-06-13,2025-06-25,Benelux,Washing Machines,Paid Search,S. Andersson,Closed Won,699.75,0.1,12
+D-10357,2026-02-02,2026-03-04,North America,Small Kitchen Appliances,Web-shop Organic,S. Andersson,Closed Won,344.62,0,30
+D-10358,2025-12-27,,North America,Small Kitchen Appliances,Affiliate Partner,A. Becker,Qualified,379.12,0,
+D-10359,2026-05-18,2026-05-24,North America,Dishwashers,Social Media Ads,M. Hoffmann,Closed Won,1938.98,0,6
+D-10360,2025-07-26,,DACH,Washing Machines,Social Media Ads,P. Rossi,Proposal Sent,648.93,0.2,
+D-10361,2025-05-26,,North America,Cordless Vacuums,Web-shop Organic,M. Hoffmann,Proposal Sent,395.94,0,
+D-10362,2025-04-14,2025-04-24,France,Small Kitchen Appliances,Retail Referral,K. Nilsson,Closed Won,262.76,0.2,10
+D-10363,2026-01-01,2026-02-13,Southern Europe,Dishwashers,Affiliate Partner,M. Hoffmann,Closed Won,738.11,0.05,43
+D-10364,2025-07-01,,France,Small Kitchen Appliances,Affiliate Partner,M. Hoffmann,Negotiation,413.4,0.05,
+D-10365,2025-08-15,,North America,Washing Machines,Web-shop Organic,,Negotiation,1221.78,0,
+D-10366,2025-11-24,2025-12-17,France,Small Kitchen Appliances,Web-shop Organic,P. Rossi,Closed Won,130.69,0.05,23
+D-10367,2025-12-25,2026-01-12,DACH,Cordless Vacuums,Web-shop Organic,L. Dubois,Closed Won,331.57,0,18
+D-10368,2026-02-28,2026-03-12,Benelux,Dishwashers,Affiliate Partner,M. Hoffmann,Closed Lost,1308.25,0.2,12
+D-10369,2025-06-16,2025-07-14,North America,Washing Machines,Affiliate Partner,S. Andersson,Closed Lost,722.64,0,28
+D-10370,2025-03-17,2025-04-11,DACH,Cordless Vacuums,Paid Search,L. Dubois,Closed Won,328.69,0,25
+D-10371,2026-03-18,,Nordics,Washing Machines,Retail Referral,A. Becker,Qualified,1241.35,0,
+D-10372,2026-02-24,,DACH,Smart Ovens,Paid Search,S. Andersson,Negotiation,2740.34,0,
+D-10373,2025-02-20,2025-03-09,Southern Europe,Cordless Vacuums,Paid Search,L. Dubois,Closed Lost,740.13,0,17
+D-10374,2025-10-29,,DACH,Cordless Vacuums,Web-shop Organic,L. Dubois,Proposal Sent,753.28,0,
+D-10375,2025-03-25,2025-04-26,DACH,Smart Ovens,Web-shop Organic,J. Murphy,Closed Lost,861.53,0,32
+D-10376,2026-01-26,2026-02-26,Southern Europe,Washing Machines,Paid Search,P. Rossi,Closed Won,665.82,0.05,31
+D-10377,2025-03-05,2025-03-24,Benelux,Cordless Vacuums,Web-shop Organic,J. Murphy,Closed Won,1141.18,0.05,19
+D-10378,2026-02-01,,North America,Washing Machines,Web-shop Organic,A. Becker,Proposal Sent,1984.36,0.15,
+D-10379,2026-05-03,2026-05-20,North America,Dishwashers,Social Media Ads,S. Andersson,Closed Won,704.66,0.1,17
+D-10380,2025-05-04,,Nordics,Washing Machines,Email Campaign,M. Hoffmann,Qualified,666.34,0,
+D-10381,2025-03-22,,North America,Coffee Systems,Web-shop Organic,K. Nilsson,Qualified,521.63,0.2,
+D-10382,2025-03-31,2025-04-14,Nordics,Cordless Vacuums,Paid Search,L. Dubois,Closed Lost,692.45,0.2,14
+D-10383,2025-04-26,2025-05-21,DACH,Small Kitchen Appliances,Social Media Ads,K. Nilsson,Closed Lost,342.14,0.1,25
+D-10384,2025-10-20,,North America,Smart Ovens,Retail Referral,L. Dubois,Proposal Sent,1892.27,0,
+D-10385,2025-02-08,2025-02-18,Benelux,Small Kitchen Appliances,Social Media Ads,T. Wagner,Closed Won,259.7,0,10
+D-10386,2026-05-02,,Benelux,Cordless Vacuums,Affiliate Partner,A. Becker,Qualified,400.34,0,
+D-10387,2025-04-11,,North America,Cordless Vacuums,Paid Search,T. Wagner,Qualified,342.02,0.15,
+D-10388,2025-04-02,2025-04-30,Benelux,Cordless Vacuums,Paid Search,K. Nilsson,Closed Won,681.15,0.15,28
+D-10389,2025-06-12,2025-06-30,Benelux,Washing Machines,Retail Referral,A. Becker,Closed Won,2158.9,0.1,18
+D-10390,2025-03-01,2025-03-13,DACH,Coffee Systems,Web-shop Organic,S. Andersson,Closed Won,524.29,0.15,12
+D-10391,2026-02-11,,UK & Ireland,Cordless Vacuums,Paid Search,T. Wagner,Negotiation,332.95,0,
+D-10392,2026-05-01,2026-05-18,France,Dishwashers,Social Media Ads,M. Hoffmann,Closed Lost,790.74,0,17
+D-10393,2025-08-15,,DACH,Dishwashers,Web-shop Organic,S. Andersson,Negotiation,753.4,0.15,
+D-10394,2026-05-01,,Benelux,Washing Machines,Web-shop Organic,,Qualified,2094.68,0.2,
+D-10395,2025-10-09,2025-11-03,DACH,Coffee Systems,Paid Search,J. Murphy,Closed Lost,514.19,0.05,25
+D-10396,2025-04-15,2025-05-29,France,Coffee Systems,Social Media Ads,K. Nilsson,Closed Won,1717.91,0.15,44
+D-10397,2026-05-09,2026-05-29,Nordics,Washing Machines,Paid Search,L. Dubois,Closed Won,753.05,0.2,20
+D-10398,2025-07-12,2025-08-03,France,Cordless Vacuums,Affiliate Partner,J. Murphy,Closed Won,1177.08,0.05,22
+D-10399,2026-05-25,,Southern Europe,Cordless Vacuums,Affiliate Partner,A. Becker,Qualified,689.53,0.05,
+D-10400,2025-12-18,,Benelux,Small Kitchen Appliances,Web-shop Organic,S. Andersson,Negotiation,348.74,0.15,
+D-10401,2025-11-04,,NORTH AMERICA,Dishwashers,Retail Referral,P. Rossi,Proposal Sent,2344.4,0,
+D-10402,2025-07-07,,France,Smart Ovens,Social Media Ads,J. Murphy,Qualified,950.16,0,
+D-10403,2026-03-07,,France,Coffee Systems,Affiliate Partner,J. Murphy,Proposal Sent,508.49,0.1,
+D-10404,2025-02-24,,France,Dishwashers,Retail Referral,T. Wagner,Proposal Sent,2211.55,0,
+D-10405,2025-11-02,2025-11-05,Benelux,Coffee Systems,Social Media Ads,K. Nilsson,Closed Lost,576.61,0,3
+D-10406,2025-05-27,2025-06-13,UK & Ireland,Cordless Vacuums,Paid Search,T. Wagner,Closed Won,364.65,0,17
+D-10407,2025-08-03,,Southern Europe,Smart Ovens,Web-shop Organic,J. Murphy,Proposal Sent,799.01,0.05,
+D-10408,2026-03-16,2026-03-21,North America,Smart Ovens,Web-shop Organic,K. Nilsson,Closed Lost,1927.5,0,5
+D-10409,2025-01-15,,DACH,Washing Machines,Web-shop Organic,P. Rossi,Qualified,2147.49,0,
+D-10410,2025-08-20,,DACH,Small Kitchen Appliances,Web-shop Organic,S. Andersson,Negotiation,119.87,0,
+D-10411,2025-03-08,,Benelux,Washing Machines,Social Media Ads,M. Hoffmann,Proposal Sent,642.09,0.05,
+D-10412,2026-03-21,,Southern Europe,Washing Machines,Social Media Ads,P. Rossi,Qualified,754.19,0.05,
+D-10413,2025-01-20,2025-02-09,France,Coffee Systems,Web-shop Organic,,Closed Won,1678.03,0.1,20
+D-10414,2026-01-20,,UK & Ireland,Smart Ovens,Paid Search,A. Becker,Proposal Sent,2451.12,0.1,
+D-10415,2025-01-21,2025-02-06,DACH,Washing Machines,Trade Show,L. Dubois,Closed Won,1225.53,0.05,16
+D-10416,2025-07-30,,DACH,Washing Machines,Paid Search,M. Hoffmann,Negotiation,695.49,0.05,
+D-10417,2025-05-21,2025-06-19,Southern Europe,Smart Ovens,Affiliate Partner,J. Murphy,Closed Lost,891.87,0,29
+D-10418,2025-09-27,,North America,Smart Ovens,Social Media Ads,S. Andersson,Proposal Sent,965.36,0.15,
+D-10419,2025-08-01,,Benelux,Cordless Vacuums,Web-shop Organic,T. Wagner,Negotiation,364.05,0,
+D-10420,2026-05-21,2026-06-01,DACH,Small Kitchen Appliances,Web-shop Organic,L. Dubois,Closed Won,336.97,0,14
+D-10421,2025-08-25,2025-09-21,Southern Europe,Small Kitchen Appliances,Web-shop Organic,J. Murphy,Closed Lost,111.14,0.2,27
+D-10422,2026-03-13,,DACH,Cordless Vacuums,Paid Search,P. Rossi,Negotiation,330.43,0,
+D-10423,2025-12-03,2025-12-22,North America,Coffee Systems,Affiliate Partner,M. Hoffmann,Closed Won,1565.76,0,19
+D-10424,2025-07-07,2025-07-19,Southern Europe,Smart Ovens,Paid Search,P. Rossi,Closed Won,1873.9,0.2,12
+D-10425,2025-04-26,2025-05-22,Benelux,Small Kitchen Appliances,Retail Referral,M. Hoffmann,Closed Won,131.2,0,26
+D-10426,2025-07-05,2025-07-28,Benelux,Washing Machines,Social Media Ads,T. Wagner,Closed Lost,732.83,0.05,23
+D-10427,2025-02-17,2025-02-25,Benelux,Smart Ovens,Retail Referral,T. Wagner,Closed Won,899.58,0.15,8
+D-10428,2025-12-13,2025-12-29,North America,Small Kitchen Appliances,Social Media Ads,S. Andersson,Closed Lost,122.49,0.05,16
+D-10429,2025-06-02,,France,Small Kitchen Appliances,Affiliate Partner,K. Nilsson,Proposal Sent,378.65,0,
+D-10430,2026-05-23,,DACH,Small Kitchen Appliances,Retail Referral,T. Wagner,Proposal Sent,223.74,0,
+D-10431,2025-08-17,2025-08-26,UK & Ireland,Cordless Vacuums,Trade Show,A. Becker,Closed Lost,355.16,0,9
+D-10432,2025-04-01,,Benelux,Dishwashers,Email Campaign,T. Wagner,Proposal Sent,713.67,0.05,
+D-10433,2026-02-27,2026-03-03,Southern Europe,Small Kitchen Appliances,Web-shop Organic,K. Nilsson,Closed Won,399.43,0.15,4
+D-10434,2025-12-16,2025-12-31,France,Washing Machines,Social Media Ads,T. Wagner,Closed Won,602.88,0.2,15
+D-10435,2026-01-08,,Benelux,Cordless Vacuums,Social Media Ads,T. Wagner,Negotiation,332.09,0,
+D-10436,2026-01-18,,France,Cordless Vacuums,Email Campaign,J. Murphy,Negotiation,326.14,0.05,
+D-10437,2025-04-20,2025-05-12,UK & Ireland,Small Kitchen Appliances,Affiliate Partner,K. Nilsson,Closed Won,134.93,0.05,22
+D-10438,2026-03-01,2026-03-26,North America,Coffee Systems,Affiliate Partner,L. Dubois,Closed Won,1639.83,0,25
+D-10439,2026-05-26,2026-06-01,North America,Dishwashers,Social Media Ads,M. Hoffmann,Closed Won,2133.63,0.05,20
+D-10440,2025-05-12,2025-05-21,Nordics,Coffee Systems,Affiliate Partner,M. Hoffmann,Closed Won,1649.03,0,9
+D-10441,2025-10-08,2025-10-24,Nordics,Dishwashers,Paid Search,S. Andersson,Closed Lost,775.29,0.05,16
+D-10442,2025-11-18,,Nordics,Small Kitchen Appliances,Retail Referral,J. Murphy,Negotiation,137.41,0,
+D-10443,2025-05-16,,UK & Ireland,Washing Machines,Affiliate Partner,P. Rossi,Qualified,698.66,0.1,
+D-10444,2025-12-27,2026-01-23,Nordics,Small Kitchen Appliances,Affiliate Partner,L. Dubois,Closed Lost,253.88,0.15,27
+D-10445,2025-01-14,2025-02-08,Southern Europe,Washing Machines,Paid Search,K. Nilsson,Closed Lost,701.91,0,25
+D-10446,2025-05-30,,North America,Coffee Systems,Trade Show,J. Murphy,Proposal Sent,553.85,0,
+D-10447,2025-04-15,2025-05-06,North America,Washing Machines,Web-shop Organic,T. Wagner,Closed Lost,2108.26,0.2,21
+D-10448,2025-09-01,2025-09-26,UK & Ireland,Small Kitchen Appliances,Affiliate Partner,K. Nilsson,Closed Lost,130.21,0.05,25
+D-10449,2025-02-25,2025-03-04,Benelux,Dishwashers,Trade Show,P. Rossi,Closed Won,2039.85,0.2,7
+D-10450,2025-07-21,,North America,Dishwashers,Email Campaign,P. Rossi,Proposal Sent,802.77,0.05,
+D-10451,2025-05-03,2025-05-13,UK & Ireland,Small Kitchen Appliances,Web-shop Organic,M. Hoffmann,Closed Won,340.53,0.2,10
+D-10452,2025-02-10,2025-03-07,France,Smart Ovens,Paid Search,M. Hoffmann,Closed Won,830.86,0.2,25
+D-10453,2026-05-18,,Southern Europe,Washing Machines,Email Campaign,J. Murphy,Proposal Sent,682.6,0.2,
+D-10454,2025-03-11,,Southern Europe,Cordless Vacuums,Social Media Ads,M. Hoffmann,Proposal Sent,1008.13,0.1,
+D-10455,2025-12-06,2025-12-21,Benelux,Smart Ovens,Paid Search,S. Andersson,Closed Won,1783.98,0.1,15
+D-10456,2026-04-02,2026-05-14,North America,Small Kitchen Appliances,Web-shop Organic,P. Rossi,Closed Won,386.12,0,42
+D-10457,2025-04-27,2025-05-10,DACH,Small Kitchen Appliances,Retail Referral,K. Nilsson,Closed Lost,136.69,0.1,13
+D-10458,2025-10-31,,North America,Washing Machines,Paid Search,A. Becker,Qualified,1875.3,0,
+D-10459,2025-03-09,2025-03-28,DACH,Coffee Systems,Trade Show,A. Becker,Closed Won,546.14,0.2,19
+D-10460,2026-03-22,,Southern Europe,Dishwashers,Email Campaign,S. Andersson,Negotiation,798.54,0,
+D-10461,2025-03-17,2025-04-10,Benelux,Small Kitchen Appliances,Paid Search,L. Dubois,Closed Won,126.71,0,24
+D-10462,2026-03-20,2026-03-29,Benelux,Dishwashers,Social Media Ads,K. Nilsson,Closed Won,703.75,0.1,9
+D-10463,2025-02-16,,DACH,Small Kitchen Appliances,Affiliate Partner,L. Dubois,Negotiation,335.41,0,
+D-10464,2025-10-16,,France,Small Kitchen Appliances,Paid Search,L. Dubois,Proposal Sent,245.27,0.2,
+D-10465,2025-05-20,,Southern Europe,Smart Ovens,Social Media Ads,S. Andersson,Negotiation,2786.69,0,
+D-10466,2025-01-12,2025-01-28,Southern Europe,Coffee Systems,Paid Search,P. Rossi,Closed Lost,1401.86,0.05,16
+D-10467,2025-08-04,,NORDICS,Washing Machines,Retail Referral,J. Murphy,Negotiation,739.41,0,
+D-10468,2025-06-14,2025-07-03,Benelux,Small Kitchen Appliances,Retail Referral,M. Hoffmann,Closed Won,127.95,0,19
+D-10469,2026-04-18,,DACH,Coffee Systems,Affiliate Partner,A. Becker,Negotiation,475.89,0,
+D-10470,2025-12-05,2025-12-22,DACH,Coffee Systems,Affiliate Partner,T. Wagner,Closed Won,502.65,0,17
+D-10471,2025-06-06,2025-06-21,France,Dishwashers,Social Media Ads,J. Murphy,Closed Lost,699.44,0.05,15
+D-10472,2026-03-23,2026-04-04,UK & Ireland,Smart Ovens,Paid Search,S. Andersson,Closed Won,1665.41,0.05,12
+D-10473,2025-04-22,2025-05-23,Benelux,Cordless Vacuums,Email Campaign,T. Wagner,Closed Won,375.03,0.2,31
+D-10474,2025-09-27,,North America,Coffee Systems,Retail Referral,S. Andersson,Negotiation,545.77,0,
+D-10475,2025-08-06,,North America,Washing Machines,Affiliate Partner,K. Nilsson,Qualified,2048.49,0.1,
+D-10476,2026-02-06,2026-03-01,Benelux,Small Kitchen Appliances,Email Campaign,P. Rossi,Closed Won,236.57,0.1,23
+D-10477,2025-09-02,,Nordics,Smart Ovens,Paid Search,A. Becker,Proposal Sent,2792.75,0.15,
+D-10478,2025-07-03,2025-07-09,UK & Ireland,Washing Machines,Web-shop Organic,M. Hoffmann,Closed Lost,685.12,0.15,6
+D-10479,2025-08-13,,Southern Europe,Dishwashers,Retail Referral,A. Becker,Proposal Sent,676.57,0,
+D-10480,2026-02-02,2026-02-20,UK & Ireland,Smart Ovens,Affiliate Partner,P. Rossi,Closed Lost,966.91,0,18
+D-10481,2025-09-27,2025-10-18,Southern Europe,Washing Machines,Affiliate Partner,J. Murphy,Closed Lost,1371.63,0.15,21
+D-10482,2025-09-15,2025-10-15,Benelux,Cordless Vacuums,Social Media Ads,L. Dubois,Closed Won,352.91,0.05,30
+D-10483,2025-05-23,2025-06-07,North America,Dishwashers,Retail Referral,A. Becker,Closed Lost,2028.81,0.15,15
+D-10484,2026-01-06,2026-02-01,FRANCE,Coffee Systems,Web-shop Organic,M. Hoffmann,Closed Lost,519.0,0.15,26
+D-10485,2025-08-04,2025-08-12,DACH,Dishwashers,Affiliate Partner,T. Wagner,Closed Lost,1496.31,0,8
+D-10486,2025-05-18,2025-06-19,UK & Ireland,Smart Ovens,Web-shop Organic,M. Hoffmann,Closed Lost,775.71,0,32
+D-10487,2025-10-18,,Nordics,Dishwashers,Social Media Ads,A. Becker,Qualified,2021.89,0.05,
+D-10488,2025-05-27,,North America,Dishwashers,Web-shop Organic,K. Nilsson,Proposal Sent,777.99,0.1,
+D-10489,2026-04-10,2026-05-03,Southern Europe,Washing Machines,Paid Search,P. Rossi,Closed Lost,1210.44,0.05,23
+D-10490,2025-06-03,2025-07-02,UK & Ireland,Smart Ovens,Web-shop Organic,K. Nilsson,Closed Lost,2664.52,0.1,29
+D-10491,2025-01-02,,North America,Smart Ovens,Web-shop Organic,M. Hoffmann,Qualified,1848.74,0.1,
+D-10492,2025-08-23,,Benelux,Cordless Vacuums,Retail Referral,K. Nilsson,Qualified,728.35,0,
+D-10493,2026-03-12,2026-04-19,NORDICS,Small Kitchen Appliances,Retail Referral,L. Dubois,Closed Won,123.81,0.2,38
+D-10494,2025-09-21,2025-10-07,DACH,Cordless Vacuums,Social Media Ads,K. Nilsson,Closed Won,372.53,0.1,16
+D-10495,2026-02-23,2026-02-28,DACH,Dishwashers,Affiliate Partner,P. Rossi,Closed Won,1989.94,0,5
+D-10496,2025-10-10,,France,Washing Machines,Paid Search,P. Rossi,Qualified,658.05,0.05,
+D-10497,2026-05-11,2026-05-29,Nordics,Washing Machines,Social Media Ads,P. Rossi,Closed Won,707.57,0.2,18
+D-10498,2026-04-03,,North America,Small Kitchen Appliances,Web-shop Organic,S. Andersson,Proposal Sent,137.81,0,
+D-10499,2025-06-14,2025-07-12,Nordics,Dishwashers,Email Campaign,A. Becker,Closed Lost,746.19,0.2,28
+D-10500,2025-04-01,2025-04-22,UK & Ireland,Dishwashers,Retail Referral,K. Nilsson,Closed Won,1286.31,0.05,21
+D-10501,2025-06-29,,Nordics,Small Kitchen Appliances,Social Media Ads,A. Becker,Negotiation,122.67,0.2,
+D-10502,2025-08-26,2025-09-19,Southern Europe,Washing Machines,Paid Search,A. Becker,Closed Lost,702.51,0,24
+D-10503,2025-10-10,,Southern Europe,Smart Ovens,Trade Show,L. Dubois,Proposal Sent,1674.33,0.05,
+D-10504,2025-04-03,2025-04-22,Nordics,Coffee Systems,Social Media Ads,L. Dubois,Closed Lost,540.26,0.2,19
+D-10505,2026-04-11,,France,Coffee Systems,Social Media Ads,S. Andersson,Qualified,539.24,0,
+D-10506,2025-10-29,2025-11-07,Benelux,Washing Machines,Web-shop Organic,L. Dubois,Closed Won,1838.88,0,9
+D-10507,2026-01-22,2026-02-13,Nordics,Washing Machines,Paid Search,T. Wagner,Closed Lost,1497.38,0.15,22
+D-10508,2025-04-30,2025-05-05,Benelux,Washing Machines,Retail Referral,T. Wagner,Closed Won,655.67,0.15,5
+D-10509,2025-12-28,2026-02-03,Southern Europe,Coffee Systems,Email Campaign,K. Nilsson,Closed Lost,498.0,0.05,37
+D-10510,2025-07-02,2025-07-24,Southern Europe,Small Kitchen Appliances,Email Campaign,L. Dubois,Closed Lost,360.42,0,22
+D-10511,2026-05-26,,UK & Ireland,Small Kitchen Appliances,Affiliate Partner,S. Andersson,Negotiation,116.62,0.2,
+D-10512,2025-12-31,2026-02-05,France,Coffee Systems,Web-shop Organic,S. Andersson,Closed Won,1103.97,0.1,36
+D-10513,2026-01-16,2026-02-18,DACH,Washing Machines,Trade Show,T. Wagner,Closed Lost,2019.91,0.2,33
+D-10514,2026-02-12,2026-03-02,FRANCE,Dishwashers,Web-shop Organic,J. Murphy,Closed Won,1548.68,0.1,18
+D-10515,2026-04-14,,DACH,Washing Machines,Paid Search,M. Hoffmann,Qualified,1412.81,0,
+D-10516,2026-01-24,2026-02-12,Southern Europe,Smart Ovens,Web-shop Organic,S. Andersson,Closed Lost,2494.32,0.2,19
+D-10517,2025-10-03,2025-10-17,France,Coffee Systems,Social Media Ads,S. Andersson,Closed Lost,529.63,0.05,14
+D-10518,2025-10-14,2025-10-29,Southern Europe,Cordless Vacuums,Paid Search,K. Nilsson,Closed Lost,1115.88,0.15,15
+D-10519,2026-03-19,,UK & Ireland,Smart Ovens,Affiliate Partner,S. Andersson,Proposal Sent,804.69,0.05,
+D-10520,2025-05-18,,North America,Smart Ovens,Web-shop Organic,T. Wagner,Qualified,2819.34,0.1,
+D-10521,2025-09-14,2025-09-26,Southern Europe,Cordless Vacuums,Email Campaign,J. Murphy,Closed Lost,382.34,0,12
+D-10522,2026-04-06,,North America,Cordless Vacuums,Social Media Ads,L. Dubois,Negotiation,344.79,0.1,
+D-10523,2025-05-05,2025-05-22,Nordics,Cordless Vacuums,Paid Search,K. Nilsson,Closed Won,1144.17,0,17
+D-10524,2025-10-19,2025-11-04,Nordics,Washing Machines,Affiliate Partner,M. Hoffmann,Closed Won,712.56,0.05,16
+D-10525,2025-06-21,,Nordics,Cordless Vacuums,Social Media Ads,M. Hoffmann,Negotiation,806.19,0.15,
+D-10526,2025-03-23,2025-04-03,Nordics,Washing Machines,Paid Search,L. Dubois,Closed Won,630.84,0.15,11
+D-10527,2025-10-05,,France,Small Kitchen Appliances,Paid Search,K. Nilsson,Qualified,132.82,0.15,
+D-10528,2025-06-21,2025-07-26,Nordics,Washing Machines,Trade Show,K. Nilsson,Closed Won,700.58,0,35
+D-10529,2026-04-30,2026-05-23,UK & Ireland,Dishwashers,Web-shop Organic,L. Dubois,Closed Lost,1282.38,0.1,23
+D-10530,2025-03-28,,North America,Smart Ovens,Web-shop Organic,,Negotiation,947.24,0,
+D-10531,2025-05-15,2025-06-06,UK & Ireland,Small Kitchen Appliances,Paid Search,M. Hoffmann,Closed Lost,120.24,0.2,22
+D-10532,2026-04-01,2026-04-24,Benelux,Dishwashers,Trade Show,J. Murphy,Closed Won,2400.14,0,23
+D-10533,2025-11-14,,Nordics,Washing Machines,Social Media Ads,K. Nilsson,Qualified,671.59,0.2,
+D-10534,2025-09-24,2025-10-25,DACH,Dishwashers,Paid Search,K. Nilsson,Closed Won,767.28,0,31
+D-10535,2026-05-04,2026-05-25,France,Dishwashers,Social Media Ads,T. Wagner,Closed Won,768.59,0.1,21
+D-10536,2026-02-26,,UK & Ireland,Smart Ovens,Social Media Ads,S. Andersson,Qualified,854.53,0,
+D-10537,2025-08-14,2025-08-29,Southern Europe,Small Kitchen Appliances,Affiliate Partner,K. Nilsson,Closed Won,397.0,0.2,15
+D-10538,2026-02-27,2026-03-23,Southern Europe,Small Kitchen Appliances,Paid Search,J. Murphy,Closed Won,111.68,0,24
+D-10539,2025-10-06,,DACH,Small Kitchen Appliances,Social Media Ads,T. Wagner,Negotiation,124.25,0,
+D-10540,2025-07-10,,UK & Ireland,Smart Ovens,Trade Show,A. Becker,Qualified,822.48,0.15,
+D-10541,2025-06-04,2025-06-26,Benelux,Small Kitchen Appliances,Web-shop Organic,L. Dubois,Closed Won,265.92,0,22
+D-10542,2025-03-24,,Benelux,Small Kitchen Appliances,Email Campaign,P. Rossi,Proposal Sent,137.89,0,
+D-10543,2025-07-05,2025-08-04,North America,Dishwashers,Web-shop Organic,T. Wagner,Closed Won,1563.24,0.2,30
+D-10544,2026-01-30,,DACH,Smart Ovens,Trade Show,S. Andersson,Proposal Sent,855.74,0,
+D-10545,2026-04-30,2026-06-01,Benelux,Small Kitchen Appliances,Email Campaign,S. Andersson,Closed Lost,114.36,0.15,41
+D-10546,2025-11-02,2025-11-17,Nordics,Washing Machines,Web-shop Organic,T. Wagner,Closed Won,736.84,0,15
+D-10547,2025-06-21,,UK & Ireland,Small Kitchen Appliances,Paid Search,A. Becker,Proposal Sent,254.0,0.2,
+D-10548,2025-06-08,2025-07-03,UK & Ireland,Smart Ovens,Trade Show,,Closed Won,2349.15,0,25
+D-10549,2025-06-07,,North America,Small Kitchen Appliances,Web-shop Organic,P. Rossi,Negotiation,133.13,0.05,
+D-10550,2026-03-26,,UK & Ireland,Cordless Vacuums,Trade Show,P. Rossi,Negotiation,648.02,0,
+D-10551,2026-05-12,,Southern Europe,Coffee Systems,Paid Search,,Negotiation,1611.71,0.15,
+D-10552,2025-11-28,,Benelux,Coffee Systems,Social Media Ads,P. Rossi,Negotiation,1504.25,0.2,
+D-10553,2026-04-06,2026-04-29,Nordics,Coffee Systems,Web-shop Organic,M. Hoffmann,Closed Won,499.9,0.05,23
+D-10554,2025-01-20,2025-02-01,DACH,Small Kitchen Appliances,Social Media Ads,M. Hoffmann,Closed Lost,119.16,0.15,12
+D-10555,2025-06-07,2025-07-07,Nordics,Dishwashers,Web-shop Organic,T. Wagner,Closed Lost,692.22,0,30
+D-10556,2025-05-13,2025-06-07,DACH,Washing Machines,Affiliate Partner,A. Becker,Closed Won,624.96,0.1,25
+D-10557,2025-02-20,2025-03-13,Southern Europe,Dishwashers,Affiliate Partner,J. Murphy,Closed Won,741.04,0,21
+D-10558,2026-04-25,,UK & Ireland,Small Kitchen Appliances,Social Media Ads,L. Dubois,Proposal Sent,334.35,0.15,
+D-10559,2025-09-30,2025-10-19,Benelux,Cordless Vacuums,Email Campaign,A. Becker,Closed Lost,328.94,0.1,19
+D-10560,2025-07-14,2025-07-18,DACH,Smart Ovens,Affiliate Partner,K. Nilsson,Closed Won,2699.92,0.15,4
+D-10561,2025-04-19,,UK & Ireland,Washing Machines,Affiliate Partner,K. Nilsson,Proposal Sent,1373.69,0.15,
+D-10562,2025-07-04,2025-07-11,Southern Europe,Dishwashers,Retail Referral,M. Hoffmann,Closed Lost,2185.88,0.05,7
+D-10563,2026-01-16,2026-02-05,France,Cordless Vacuums,Social Media Ads,P. Rossi,Closed Lost,377.35,0.1,20
+D-10564,2025-09-18,2025-09-21,UK & Ireland,Washing Machines,Social Media Ads,K. Nilsson,Closed Won,594.18,0,3
+D-10565,2025-01-07,2025-02-03,Nordics,Smart Ovens,Social Media Ads,J. Murphy,Closed Won,810.03,0,27
+D-10566,2025-04-07,2025-04-24,North America,Small Kitchen Appliances,Email Campaign,M. Hoffmann,Closed Won,361.62,0,17
+D-10567,2026-02-14,2026-03-10,UK & Ireland,Cordless Vacuums,Email Campaign,L. Dubois,Closed Lost,341.1,0.15,24
+D-10568,2025-11-04,2025-11-28,France,Dishwashers,Web-shop Organic,L. Dubois,Closed Won,771.04,0,24
+D-10569,2025-08-21,,North America,Dishwashers,Paid Search,L. Dubois,Negotiation,782.99,0.15,
+D-10570,2025-02-12,2025-02-24,NORTH AMERICA,Small Kitchen Appliances,Paid Search,J. Murphy,Closed Won,126.41,0.1,12
+D-10571,2026-04-02,,Southern Europe,Coffee Systems,Web-shop Organic,K. Nilsson,Proposal Sent,539.29,0,
+D-10572,2025-05-16,2025-05-22,Benelux,Cordless Vacuums,Email Campaign,M. Hoffmann,Closed Won,369.93,0,6
+D-10573,2025-05-19,2025-06-11,Benelux,Washing Machines,Paid Search,M. Hoffmann,Closed Lost,1252.0,0.15,23
+D-10574,2025-09-06,2025-09-28,Nordics,Coffee Systems,Social Media Ads,S. Andersson,Closed Won,583.34,0,22
+D-10575,2025-07-15,2025-07-28,Southern Europe,Dishwashers,Paid Search,P. Rossi,Closed Won,738.96,0.2,13
+D-10576,2025-05-30,2025-06-25,France,Coffee Systems,Trade Show,T. Wagner,Closed Lost,553.19,0.2,26
+D-10577,2025-09-06,,Southern Europe,Smart Ovens,Web-shop Organic,A. Becker,Qualified,955.77,0,
+D-10578,2026-04-06,2026-04-23,France,Small Kitchen Appliances,Email Campaign,J. Murphy,Closed Lost,358.49,0,17
+D-10579,2026-05-10,2026-06-01,UK & Ireland,Washing Machines,Social Media Ads,J. Murphy,Closed Lost,1403.17,0.1,34
+D-10580,2025-03-03,2025-03-23,Southern Europe,Washing Machines,Web-shop Organic,M. Hoffmann,Closed Won,2163.08,0,20
+D-10581,2025-03-10,2025-03-28,DACH,Dishwashers,Affiliate Partner,A. Becker,Closed Lost,750.37,0,18
+D-10582,2025-04-12,,France,Small Kitchen Appliances,Paid Search,K. Nilsson,Qualified,372.09,0.1,
+D-10583,2025-01-23,2025-03-02,DACH,Coffee Systems,Web-shop Organic,T. Wagner,Closed Won,583.11,0,38
+D-10584,2025-12-22,,Benelux,Dishwashers,Affiliate Partner,A. Becker,Negotiation,697.87,0,
+D-10585,2026-02-01,,Nordics,Cordless Vacuums,Email Campaign,J. Murphy,Qualified,393.18,0.1,
+D-10586,2025-05-21,2025-05-25,France,Coffee Systems,Web-shop Organic,K. Nilsson,Closed Won,543.98,0.05,4
+D-10587,2025-12-04,2026-01-09,UK & Ireland,Washing Machines,Web-shop Organic,J. Murphy,Closed Lost,615.34,0.1,36
+D-10588,2025-11-13,,Nordics,Small Kitchen Appliances,Email Campaign,M. Hoffmann,Negotiation,136.31,0.05,
+D-10589,2025-11-22,2025-11-28,North America,Coffee Systems,Affiliate Partner,M. Hoffmann,Closed Won,489.9,0.15,6
+D-10590,2026-02-26,2026-03-16,DACH,Cordless Vacuums,Retail Referral,K. Nilsson,Closed Won,387.14,0,18
+D-10591,2025-01-27,,North America,Coffee Systems,Web-shop Organic,M. Hoffmann,Proposal Sent,543.92,0.1,
+D-10592,2025-08-25,,Nordics,Washing Machines,Web-shop Organic,S. Andersson,Negotiation,1303.82,0,
+D-10593,2025-07-08,,Nordics,Washing Machines,Social Media Ads,P. Rossi,Proposal Sent,673.16,0,
+D-10594,2025-10-04,,UK & Ireland,Coffee Systems,Web-shop Organic,A. Becker,Qualified,494.75,0.2,
+D-10595,2026-05-17,,UK & Ireland,Smart Ovens,Web-shop Organic,T. Wagner,Negotiation,943.37,0.05,
+D-10596,2025-11-17,2025-12-18,Benelux,Smart Ovens,Social Media Ads,K. Nilsson,Closed Lost,875.01,0.1,31
+D-10597,2025-09-09,2025-09-25,DACH,Dishwashers,Social Media Ads,A. Becker,Closed Lost,704.8,0.1,16
+D-10598,2025-07-14,2025-07-28,Benelux,Washing Machines,Email Campaign,A. Becker,Closed Won,1454.41,0,14
+D-10599,2025-05-26,2025-06-20,Benelux,Cordless Vacuums,Social Media Ads,A. Becker,Closed Lost,378.47,0.15,25
+D-10600,2026-02-07,2026-02-22,Nordics,Smart Ovens,Web-shop Organic,M. Hoffmann,Closed Lost,886.21,0.05,15
+D-10601,2025-05-07,2025-05-29,DACH,Cordless Vacuums,Paid Search,M. Hoffmann,Closed Won,383.71,0,22
+D-10602,2026-01-23,2026-02-18,Nordics,Small Kitchen Appliances,Paid Search,M. Hoffmann,Closed Lost,119.6,0,26
+D-10603,2026-03-06,2026-03-28,North America,Coffee Systems,Web-shop Organic,A. Becker,Closed Won,1117.7,0,22
+D-10604,2025-07-27,2025-08-17,Southern Europe,Coffee Systems,Web-shop Organic,M. Hoffmann,Closed Won,1058.97,0.1,21
+D-10605,2025-09-01,2025-09-20,North America,Smart Ovens,Social Media Ads,T. Wagner,Closed Won,1801.02,0.05,19
+D-10606,2025-09-08,,Benelux,Smart Ovens,Social Media Ads,A. Becker,Qualified,2464.97,0.2,
+D-10607,2025-02-26,,North America,Coffee Systems,Web-shop Organic,M. Hoffmann,Negotiation,471.29,0.15,
+D-10608,2025-02-20,2025-03-18,Nordics,Washing Machines,Paid Search,L. Dubois,Closed Won,1919.61,0.1,26
+D-10609,2026-01-04,,North America,Washing Machines,Web-shop Organic,T. Wagner,Qualified,609.12,0,
+D-10610,2025-03-08,2025-03-28,FRANCE,Dishwashers,Email Campaign,K. Nilsson,Closed Won,659.83,0,20
+D-10611,2025-03-01,2025-03-20,Nordics,Dishwashers,Social Media Ads,S. Andersson,Closed Won,1613.43,0.15,19
+D-10612,2026-03-14,2026-03-22,Southern Europe,Washing Machines,Retail Referral,J. Murphy,Closed Lost,1935.1,0.1,8
+D-10613,2026-05-25,2026-06-01,Nordics,Cordless Vacuums,Retail Referral,T. Wagner,Closed Lost,383.92,0,26
+D-10614,2025-08-01,,DACH,Smart Ovens,Social Media Ads,L. Dubois,Proposal Sent,1941.42,0,
+D-10615,2025-01-12,,France,Cordless Vacuums,Social Media Ads,S. Andersson,Negotiation,382.3,0.2,
+D-10616,2025-01-07,2025-02-08,DACH,Cordless Vacuums,Paid Search,P. Rossi,Closed Won,702.4,0.15,32
+D-10617,2025-07-18,2025-07-31,Nordics,Washing Machines,Trade Show,M. Hoffmann,Closed Won,741.44,0.15,13
+D-10618,2025-12-10,2026-01-11,UK & Ireland,Dishwashers,Web-shop Organic,T. Wagner,Closed Lost,776.91,0.2,32
+D-10619,2025-01-20,2025-02-03,Nordics,Cordless Vacuums,Social Media Ads,P. Rossi,Closed Won,399.56,0,14
+D-10620,2026-01-20,2026-01-26,UK & Ireland,Cordless Vacuums,Email Campaign,P. Rossi,Closed Lost,1186.75,0.1,6
+D-10621,2025-11-19,,Benelux,Coffee Systems,Social Media Ads,J. Murphy,Negotiation,500.93,0.05,
+D-10622,2025-08-10,2025-09-03,UK & Ireland,Cordless Vacuums,Social Media Ads,J. Murphy,Closed Lost,325.41,0,24
+D-10623,2025-06-07,2025-07-05,Benelux,Washing Machines,Web-shop Organic,T. Wagner,Closed Won,2227.93,0,28
+D-10624,2025-05-16,2025-06-14,North America,Cordless Vacuums,Web-shop Organic,L. Dubois,Closed Won,397.54,0,29
+D-10625,2025-12-08,2025-12-31,France,Smart Ovens,Affiliate Partner,L. Dubois,Closed Lost,2321.07,0.2,23
+D-10626,2025-08-03,2025-08-26,Southern Europe,Small Kitchen Appliances,Paid Search,J. Murphy,Closed Won,238.24,0.15,23
+D-10627,2025-04-28,2025-05-25,DACH,Cordless Vacuums,Web-shop Organic,J. Murphy,Closed Won,1129.36,0,27
+D-10628,2025-10-05,2025-10-23,UK & Ireland,Washing Machines,Paid Search,P. Rossi,Closed Won,633.51,0,18
+D-10629,2025-05-14,2025-05-27,Nordics,Cordless Vacuums,Social Media Ads,A. Becker,Closed Won,400.89,0,13
+D-10630,2025-07-03,,Benelux,Smart Ovens,Web-shop Organic,K. Nilsson,Negotiation,1896.88,0.1,
+D-10631,2025-03-22,,France,Cordless Vacuums,Paid Search,S. Andersson,Qualified,776.06,0.1,
+D-10632,2025-04-10,2025-04-25,UK & Ireland,Smart Ovens,Email Campaign,T. Wagner,Closed Lost,860.38,0,15
+D-10633,2026-02-06,2026-02-14,UK & Ireland,Washing Machines,Paid Search,P. Rossi,Closed Won,741.62,0.2,8
+D-10634,2025-03-08,2025-03-23,North America,Cordless Vacuums,Social Media Ads,A. Becker,Closed Lost,337.04,0.1,15
+D-10635,2025-04-20,2025-05-19,Nordics,Coffee Systems,Social Media Ads,K. Nilsson,Closed Won,548.66,0.1,29
+D-10636,2025-09-07,2025-10-06,Benelux,Dishwashers,Social Media Ads,S. Andersson,Closed Lost,2086.03,0.05,29
+D-10637,2025-08-30,2025-09-18,North America,Dishwashers,Social Media Ads,P. Rossi,Closed Won,2256.01,0.2,19
+D-10638,2025-11-30,2025-12-23,Benelux,Smart Ovens,Social Media Ads,T. Wagner,Closed Lost,961.8,0.1,23
+D-10639,2025-12-02,2025-12-17,DACH,Small Kitchen Appliances,Email Campaign,K. Nilsson,Closed Lost,129.24,0,15
+D-10640,2025-05-31,,North America,Coffee Systems,Retail Referral,A. Becker,Negotiation,523.85,0.05,
+D-10641,2025-11-21,2025-12-15,Nordics,Washing Machines,Paid Search,S. Andersson,Closed Won,1483.64,0.15,24
+D-10642,2025-05-11,,France,Smart Ovens,Social Media Ads,K. Nilsson,Proposal Sent,2331.16,0,
+D-10643,2025-04-23,,DACH,Small Kitchen Appliances,Social Media Ads,P. Rossi,Proposal Sent,135.33,0.05,
+D-10644,2026-01-27,2026-02-03,Southern Europe,Washing Machines,Paid Search,P. Rossi,Closed Lost,664.12,0.15,7
+D-10645,2026-01-04,,UK & Ireland,Dishwashers,Web-shop Organic,K. Nilsson,Proposal Sent,663.23,0,
+D-10646,2026-05-14,,DACH,Smart Ovens,Affiliate Partner,M. Hoffmann,Negotiation,965.75,0,
+D-10647,2026-03-12,2026-03-23,UK & Ireland,Small Kitchen Appliances,Email Campaign,T. Wagner,Closed Lost,267.96,0,11
+D-10648,2026-05-26,,UK & Ireland,Coffee Systems,Paid Search,A. Becker,Proposal Sent,1489.63,0,
+D-10649,2025-02-08,2025-03-03,Benelux,Washing Machines,Social Media Ads,A. Becker,Closed Lost,707.47,0.1,23
+D-10650,2026-04-22,2026-04-30,Benelux,Small Kitchen Appliances,Web-shop Organic,,Closed Lost,116.93,0.15,8
+D-10651,2025-02-24,,Southern Europe,Washing Machines,Email Campaign,J. Murphy,Qualified,680.17,0.05,
+D-10652,2026-03-08,2026-03-27,Benelux,Washing Machines,Retail Referral,P. Rossi,Closed Won,751.34,0,19
+D-10653,2025-09-24,2025-10-09,UK & Ireland,Smart Ovens,Affiliate Partner,J. Murphy,Closed Won,774.82,0.2,15
+D-10654,2025-03-26,2025-04-16,Southern Europe,Washing Machines,Web-shop Organic,T. Wagner,Closed Won,606.51,0,21
+D-10655,2025-01-15,,UK & Ireland,Washing Machines,Paid Search,J. Murphy,Negotiation,2073.68,0.15,
+D-10656,2025-09-25,,UK & Ireland,Small Kitchen Appliances,Paid Search,M. Hoffmann,Proposal Sent,116.66,0.2,
+D-10657,2025-05-29,2025-06-26,Nordics,Smart Ovens,Paid Search,L. Dubois,Closed Lost,1839.6,0.2,28
+D-10658,2025-08-04,2025-08-09,Benelux,Coffee Systems,Affiliate Partner,M. Hoffmann,Closed Lost,572.95,0.15,5
+D-10659,2026-02-13,2026-02-16,France,Smart Ovens,Web-shop Organic,T. Wagner,Closed Lost,954.89,0.05,3
+D-10660,2025-05-29,2025-06-22,Southern Europe,Small Kitchen Appliances,Paid Search,J. Murphy,Closed Lost,122.55,0.2,24
+D-10661,2025-04-10,,Benelux,Dishwashers,Affiliate Partner,A. Becker,Qualified,1492.92,0.1,
+D-10662,2025-04-11,2025-04-23,Southern Europe,Cordless Vacuums,Paid Search,J. Murphy,Closed Won,381.02,0.15,12
+D-10663,2025-07-04,2025-07-19,Southern Europe,Washing Machines,Email Campaign,P. Rossi,Closed Won,595.85,0.2,15
+D-10664,2026-04-02,2026-04-21,DACH,Smart Ovens,Paid Search,L. Dubois,Closed Won,2313.57,0,19
+D-10665,2025-05-05,,DACH,Washing Machines,Affiliate Partner,S. Andersson,Negotiation,1840.32,0,
+D-10666,2025-04-24,,Benelux,Small Kitchen Appliances,Email Campaign,M. Hoffmann,Negotiation,234.33,0.15,
+D-10667,2026-03-14,,DACH,Small Kitchen Appliances,Social Media Ads,J. Murphy,Negotiation,129.46,0,
+D-10668,2026-01-27,2026-02-10,UK & Ireland,Smart Ovens,Paid Search,A. Becker,Closed Lost,970.08,0.2,14
+D-10669,2025-07-25,2025-08-19,France,Coffee Systems,Paid Search,T. Wagner,Closed Lost,969.63,0,25
+D-10670,2025-09-23,2025-10-23,Nordics,Small Kitchen Appliances,Web-shop Organic,T. Wagner,Closed Won,335.44,0.15,30
+D-10671,2025-06-02,,France,Dishwashers,Web-shop Organic,,Negotiation,636.8,0.15,
+D-10672,2026-02-05,2026-02-08,Benelux,Cordless Vacuums,Web-shop Organic,P. Rossi,Closed Lost,729.85,0.05,3
+D-10673,2025-08-20,2025-09-07,North America,Small Kitchen Appliances,Email Campaign,L. Dubois,Closed Won,275.92,0,18
+D-10674,2025-12-08,,Nordics,Washing Machines,Retail Referral,P. Rossi,Negotiation,658.56,0,
+D-10675,2025-10-24,,Nordics,Cordless Vacuums,Web-shop Organic,T. Wagner,Negotiation,337.55,0.05,
+D-10676,2025-04-20,,Southern Europe,Coffee Systems,Paid Search,K. Nilsson,Negotiation,512.01,0.15,
+D-10677,2025-07-17,2025-08-13,Benelux,Small Kitchen Appliances,Web-shop Organic,A. Becker,Closed Won,363.55,0.15,27
+D-10678,2025-01-17,2025-02-06,France,Dishwashers,Social Media Ads,T. Wagner,Closed Won,646.31,0.05,20
+D-10679,2025-06-02,,DACH,Coffee Systems,Email Campaign,T. Wagner,Negotiation,496.07,0,
+D-10680,2026-04-28,,Southern Europe,Coffee Systems,Social Media Ads,,Qualified,544.73,0.15,
+D-10681,2025-11-11,,Southern Europe,Coffee Systems,Web-shop Organic,A. Becker,Proposal Sent,1436.81,0,
+D-10682,2025-04-27,2025-05-19,North America,Washing Machines,Web-shop Organic,L. Dubois,Closed Lost,1446.96,0,22
+D-10683,2025-05-04,,North America,Small Kitchen Appliances,Affiliate Partner,P. Rossi,Qualified,126.74,0,
+D-10684,2025-12-10,2025-12-24,North America,Coffee Systems,Email Campaign,M. Hoffmann,Closed Won,1002.47,0,14
+D-10685,2025-09-07,,Southern Europe,Cordless Vacuums,Social Media Ads,T. Wagner,Qualified,325.7,0.2,
+D-10686,2025-01-17,,North America,Small Kitchen Appliances,Social Media Ads,M. Hoffmann,Proposal Sent,112.05,0,
+D-10687,2026-03-03,,DACH,Small Kitchen Appliances,Affiliate Partner,J. Murphy,Negotiation,266.31,0.15,
+D-10688,2026-04-07,2026-05-09,UK & Ireland,Coffee Systems,Web-shop Organic,J. Murphy,Closed Lost,471.4,0.15,32
+D-10689,2025-12-23,2026-01-08,Benelux,Washing Machines,Trade Show,J. Murphy,Closed Lost,683.81,0,16
+D-10690,2026-04-21,,Nordics,Smart Ovens,Social Media Ads,S. Andersson,Proposal Sent,900.48,0,
+D-10691,2026-05-25,2026-06-01,UK & Ireland,Smart Ovens,Email Campaign,T. Wagner,Closed Won,897.49,0,19
+D-10692,2025-02-14,2025-03-04,Benelux,Cordless Vacuums,Paid Search,T. Wagner,Closed Won,980.17,0,18
+D-10693,2025-03-14,,UK & Ireland,Smart Ovens,Social Media Ads,L. Dubois,Qualified,2739.94,0.1,
+D-10694,2025-08-24,,France,Dishwashers,Web-shop Organic,P. Rossi,Proposal Sent,692.83,0,
+D-10695,2025-08-14,2025-09-01,Southern Europe,Dishwashers,Retail Referral,K. Nilsson,Closed Won,711.74,0.1,18
+D-10696,2026-04-14,,Benelux,Coffee Systems,Paid Search,,Negotiation,546.46,0,
+D-10697,2025-10-15,2025-11-03,France,Coffee Systems,Web-shop Organic,A. Becker,Closed Won,1148.38,0.05,19
+D-10698,2025-06-10,,UK & Ireland,Cordless Vacuums,Web-shop Organic,J. Murphy,Proposal Sent,1133.29,0,
+D-10699,2026-02-26,,Nordics,Washing Machines,Retail Referral,L. Dubois,Proposal Sent,672.8,0.1,
+D-10700,2025-09-10,2025-09-25,Benelux,Dishwashers,Paid Search,K. Nilsson,Closed Won,796.43,0.1,15
+D-10701,2026-04-27,,DACH,Dishwashers,Trade Show,A. Becker,Negotiation,1447.02,0.1,
+D-10702,2026-04-09,2026-05-02,Benelux,Dishwashers,Email Campaign,L. Dubois,Closed Lost,650.96,0.15,23
+D-10703,2026-01-03,2026-01-21,Southern Europe,Dishwashers,Retail Referral,M. Hoffmann,Closed Won,719.3,0,18
+D-10704,2026-04-11,2026-04-28,Southern Europe,Dishwashers,Retail Referral,A. Becker,Closed Lost,1321.06,0,17
+D-10705,2025-03-14,2025-03-30,North America,Cordless Vacuums,Social Media Ads,A. Becker,Closed Lost,348.0,0.15,16
+D-10706,2025-03-24,2025-04-03,Nordics,Washing Machines,Social Media Ads,S. Andersson,Closed Lost,648.12,0.1,10
+D-10707,2026-01-28,2026-02-11,Southern Europe,Cordless Vacuums,Retail Referral,L. Dubois,Closed Won,1012.28,0.15,14
+D-10708,2025-05-22,,DACH,Washing Machines,Affiliate Partner,S. Andersson,Qualified,632.51,0.15,
+D-10709,2025-08-19,2025-09-03,Benelux,Small Kitchen Appliances,Retail Referral,S. Andersson,Closed Won,408.88,0.15,15
+D-10710,2025-12-20,2025-12-24,Benelux,Cordless Vacuums,Web-shop Organic,P. Rossi,Closed Lost,1089.4,0.15,4
+D-10711,2026-01-12,,North America,Washing Machines,Retail Referral,T. Wagner,Proposal Sent,746.14,0,
+D-10712,2025-10-23,,Benelux,Smart Ovens,Web-shop Organic,M. Hoffmann,Qualified,780.06,0,
+D-10713,2025-07-29,2025-08-18,DACH,Small Kitchen Appliances,Web-shop Organic,M. Hoffmann,Closed Lost,128.26,0.05,20
+D-10714,2025-12-22,2026-01-11,Southern Europe,Washing Machines,Retail Referral,T. Wagner,Closed Lost,624.55,0.2,20
+D-10715,2026-02-26,2026-03-17,North America,Coffee Systems,Email Campaign,P. Rossi,Closed Lost,549.45,0.05,19
+D-10716,2026-04-14,2026-05-15,Nordics,Small Kitchen Appliances,Affiliate Partner,T. Wagner,Closed Won,114.75,0,31
+D-10717,2025-06-01,2025-07-03,Benelux,Cordless Vacuums,Trade Show,A. Becker,Closed Won,361.89,0.1,32
+D-10718,2025-06-29,,UK & Ireland,Small Kitchen Appliances,Social Media Ads,M. Hoffmann,Proposal Sent,130.21,0,
+D-10719,2025-05-10,2025-05-26,UK & Ireland,Smart Ovens,Web-shop Organic,P. Rossi,Closed Lost,910.36,0,16
+D-10720,2025-11-05,2025-11-30,UK & Ireland,Cordless Vacuums,Paid Search,M. Hoffmann,Closed Won,648.65,0.2,25
+D-10721,2025-01-05,,UK & Ireland,Dishwashers,Retail Referral,,Qualified,2192.2,0,
+D-10722,2025-05-31,,Southern Europe,Small Kitchen Appliances,Paid Search,J. Murphy,Proposal Sent,262.53,0,
+D-10723,2025-05-23,,Southern Europe,Smart Ovens,Affiliate Partner,A. Becker,Negotiation,788.32,0.05,
+D-10724,2025-12-01,2025-12-14,Nordics,Coffee Systems,Paid Search,L. Dubois,Closed Won,494.7,0,13
+D-10725,2025-03-31,,DACH,Smart Ovens,Social Media Ads,T. Wagner,Qualified,1691.41,0,
+D-10726,2026-01-05,2026-01-16,Nordics,Washing Machines,Social Media Ads,A. Becker,Closed Lost,1418.51,0,11
+D-10727,2025-12-26,2026-01-05,Benelux,Cordless Vacuums,Web-shop Organic,P. Rossi,Closed Won,681.9,0.15,10
+D-10728,2026-03-01,2026-03-25,Benelux,Dishwashers,Paid Search,,Closed Won,737.8,0,24
+D-10729,2025-03-09,,UK & Ireland,Cordless Vacuums,Social Media Ads,P. Rossi,Qualified,747.28,0,
+D-10730,2026-03-01,2026-03-10,DACH,Dishwashers,Affiliate Partner,J. Murphy,Closed Won,794.26,0,9
+D-10731,2025-02-13,,North America,Dishwashers,Paid Search,T. Wagner,Proposal Sent,2066.02,0,
+D-10732,2025-01-28,,Benelux,Washing Machines,Affiliate Partner,S. Andersson,Proposal Sent,618.91,0.15,
+D-10733,2026-03-04,2026-03-27,North America,Small Kitchen Appliances,Social Media Ads,J. Murphy,Closed Won,136.55,0,23
+D-10734,2026-01-06,2026-01-10,DACH,Cordless Vacuums,Social Media Ads,L. Dubois,Closed Lost,753.78,0.15,4
+D-10735,2025-09-23,2025-10-06,North America,Smart Ovens,Paid Search,A. Becker,Closed Won,776.25,0.05,13
+D-10736,2025-10-07,2025-10-13,Southern Europe,Coffee Systems,Paid Search,A. Becker,Closed Won,472.8,0.1,6
+D-10737,2025-04-07,2025-04-11,Southern Europe,Smart Ovens,Social Media Ads,M. Hoffmann,Closed Lost,798.71,0.2,4
+D-10738,2026-01-07,2026-01-13,France,Small Kitchen Appliances,Email Campaign,J. Murphy,Closed Won,330.1,0,6
+D-10739,2025-04-15,2025-04-27,France,Dishwashers,Paid Search,M. Hoffmann,Closed Won,723.37,0.2,12
+D-10740,2026-03-04,2026-04-08,Nordics,Washing Machines,Affiliate Partner,L. Dubois,Closed Lost,1485.21,0,35
+D-10741,2025-12-17,2026-01-14,France,Small Kitchen Appliances,Paid Search,T. Wagner,Closed Won,118.69,0,28
+D-10742,2025-11-11,2025-12-04,UK & IRELAND,Small Kitchen Appliances,Web-shop Organic,S. Andersson,Closed Won,130.15,0,23
+D-10743,2025-07-21,2025-08-13,DACH,Dishwashers,Email Campaign,A. Becker,Closed Won,2319.81,0.1,23
+D-10744,2025-02-14,2025-02-27,DACH,Dishwashers,Web-shop Organic,J. Murphy,Closed Won,2314.29,0,13
+D-10745,2025-01-30,2025-02-06,Nordics,Coffee Systems,Web-shop Organic,P. Rossi,Closed Won,573.46,0.1,7
+D-10746,2025-03-11,2025-03-30,France,Cordless Vacuums,Web-shop Organic,S. Andersson,Closed Won,341.07,0,19
+D-10747,2025-08-08,,UK & Ireland,Washing Machines,Web-shop Organic,L. Dubois,Qualified,1462.03,0,
+D-10748,2025-07-05,,Southern Europe,Washing Machines,Web-shop Organic,L. Dubois,Proposal Sent,1503.83,0,
+D-10749,2025-05-07,2025-05-27,Nordics,Coffee Systems,Paid Search,P. Rossi,Closed Lost,1064.55,0.2,20
+D-10750,2025-03-26,2025-04-21,France,Small Kitchen Appliances,Paid Search,A. Becker,Closed Won,127.46,0.15,26
+D-10751,2025-10-25,,North America,Dishwashers,Web-shop Organic,K. Nilsson,Qualified,710.37,0.2,
+D-10752,2025-07-03,2025-07-28,North America,Dishwashers,Retail Referral,P. Rossi,Closed Won,752.79,0.05,25
+D-10753,2025-05-03,2025-05-14,Benelux,Washing Machines,Affiliate Partner,L. Dubois,Closed Won,610.5,0,11
+D-10754,2025-05-06,2025-06-03,France,Coffee Systems,Paid Search,K. Nilsson,Closed Won,1040.55,0,28
+D-10755,2026-02-14,2026-02-23,North America,Small Kitchen Appliances,Email Campaign,J. Murphy,Closed Won,416.85,0,9
+D-10756,2026-05-17,2026-05-20,UK & Ireland,Dishwashers,Web-shop Organic,J. Murphy,Closed Lost,744.9,0,3
+D-10757,2026-05-26,,DACH,Small Kitchen Appliances,Web-shop Organic,L. Dubois,Negotiation,276.98,0.1,
+D-10758,2025-03-20,,Southern Europe,Cordless Vacuums,Web-shop Organic,L. Dubois,Negotiation,734.95,0.2,
+D-10759,2026-05-18,2026-05-23,Benelux,Coffee Systems,Paid Search,T. Wagner,Closed Lost,534.9,0.2,5
+D-10760,2026-01-28,2026-02-13,DACH,Dishwashers,Retail Referral,L. Dubois,Closed Lost,1567.15,0.05,16
+D-10761,2025-06-18,2025-07-18,DACH,Smart Ovens,Web-shop Organic,J. Murphy,Closed Lost,864.94,0.1,30
+D-10762,2026-05-03,2026-06-01,Southern Europe,Dishwashers,Affiliate Partner,T. Wagner,Closed Lost,663.58,0.05,31
+D-10763,2025-12-28,,France,Dishwashers,Social Media Ads,K. Nilsson,Proposal Sent,685.65,0,
+D-10764,2025-12-24,,Nordics,Smart Ovens,Web-shop Organic,P. Rossi,Proposal Sent,884.9,0.05,
+D-10765,2026-02-26,2026-03-15,DACH,Dishwashers,Paid Search,P. Rossi,Closed Won,2244.89,0,17
+D-10766,2025-12-12,2025-12-27,Southern Europe,Smart Ovens,Retail Referral,L. Dubois,Closed Won,875.48,0.05,15
+D-10767,2025-10-01,2025-10-20,Southern Europe,Dishwashers,Social Media Ads,K. Nilsson,Closed Won,2073.53,0.05,19
+D-10768,2025-04-13,,France,Washing Machines,Web-shop Organic,T. Wagner,Negotiation,1254.51,0.1,
+D-10769,2026-01-08,,North America,Small Kitchen Appliances,Paid Search,J. Murphy,Qualified,115.64,0.2,
+D-10770,2025-02-18,2025-03-11,North America,Washing Machines,Web-shop Organic,J. Murphy,Closed Won,686.35,0.1,21
+D-10771,2025-12-11,2025-12-21,Southern Europe,Smart Ovens,Affiliate Partner,L. Dubois,Closed Won,852.46,0.2,10
+D-10772,2026-03-20,,DACH,Small Kitchen Appliances,Email Campaign,J. Murphy,Negotiation,237.89,0.05,
+D-10773,2025-01-20,2025-02-05,France,Washing Machines,Social Media Ads,M. Hoffmann,Closed Lost,677.14,0.1,16
+D-10774,2025-10-02,,Benelux,Coffee Systems,Affiliate Partner,T. Wagner,Qualified,1601.75,0.2,
+D-10775,2025-07-25,2025-08-18,North America,Dishwashers,Retail Referral,A. Becker,Closed Won,754.71,0.2,24
+D-10776,2025-07-28,,Benelux,Dishwashers,Paid Search,L. Dubois,Proposal Sent,682.63,0.15,
+D-10777,2026-02-20,2026-03-17,UK & Ireland,Cordless Vacuums,Affiliate Partner,S. Andersson,Closed Won,335.22,0,25
+D-10778,2026-03-09,,North America,Cordless Vacuums,Social Media Ads,K. Nilsson,Negotiation,325.38,0,
+D-10779,2025-06-30,,UK & Ireland,Smart Ovens,Paid Search,J. Murphy,Negotiation,1545.76,0.2,
+D-10780,2025-11-18,2025-12-21,DACH,Smart Ovens,Retail Referral,L. Dubois,Closed Lost,848.31,0.15,33
+D-10781,2025-08-30,2025-09-05,Southern Europe,Smart Ovens,Paid Search,M. Hoffmann,Closed Won,916.02,0.1,6
+D-10782,2026-05-24,,Southern Europe,Washing Machines,Retail Referral,J. Murphy,Qualified,632.43,0.2,
+D-10783,2025-08-30,,North America,Cordless Vacuums,Paid Search,K. Nilsson,Qualified,341.15,0,
+D-10784,2025-02-27,2025-03-04,UK & Ireland,Cordless Vacuums,Paid Search,J. Murphy,Closed Lost,699.48,0.05,5
+D-10785,2026-01-07,2026-02-12,Southern Europe,Coffee Systems,Trade Show,M. Hoffmann,Closed Lost,513.08,0,36
+D-10786,2025-09-03,2025-09-14,Southern Europe,Washing Machines,Web-shop Organic,A. Becker,Closed Won,706.79,0.1,11
+D-10787,2025-01-09,,North America,Coffee Systems,Retail Referral,K. Nilsson,Qualified,516.27,0,
+D-10788,2026-03-26,,DACH,Coffee Systems,Paid Search,M. Hoffmann,Negotiation,1155.4,0.2,
+D-10789,2026-04-28,,DACH,Cordless Vacuums,Retail Referral,T. Wagner,Negotiation,402.91,0.15,
+D-10790,2025-03-09,2025-04-07,Benelux,Smart Ovens,Email Campaign,J. Murphy,Closed Won,2665.95,0.15,29
+D-10791,2025-07-08,,France,Dishwashers,Affiliate Partner,,Negotiation,772.92,0,
+D-10792,2025-03-26,2025-04-16,Benelux,Coffee Systems,Social Media Ads,P. Rossi,Closed Won,563.58,0.2,21
+D-10793,2026-04-08,2026-05-13,Nordics,Small Kitchen Appliances,Paid Search,P. Rossi,Closed Lost,131.46,0,35
+D-10794,2025-07-23,2025-08-06,Southern Europe,Washing Machines,Email Campaign,J. Murphy,Closed Won,1964.44,0,14
+D-10795,2025-04-02,,DACH,Smart Ovens,Retail Referral,S. Andersson,Qualified,805.15,0,
+D-10796,2025-06-02,2025-06-29,Benelux,Washing Machines,Paid Search,J. Murphy,Closed Won,1959.9,0,27
+D-10797,2026-05-22,2026-06-01,DACH,Small Kitchen Appliances,Social Media Ads,T. Wagner,Closed Won,135.22,0,19
+D-10798,2025-07-31,2025-08-15,Southern Europe,Dishwashers,Paid Search,K. Nilsson,Closed Lost,808.09,0.15,15
+D-10799,2025-05-30,2025-06-26,Southern Europe,Coffee Systems,Paid Search,K. Nilsson,Closed Won,523.59,0,27
+D-10800,2025-01-11,2025-01-31,Nordics,Small Kitchen Appliances,Affiliate Partner,L. Dubois,Closed Lost,271.01,0.15,20
+D-10801,2025-09-20,2025-10-08,UK & Ireland,Small Kitchen Appliances,Paid Search,K. Nilsson,Closed Won,274.55,0,18
+D-10802,2025-01-06,2025-01-25,Nordics,Small Kitchen Appliances,Trade Show,A. Becker,Closed Won,128.04,0.05,19
+D-10803,2025-07-03,2025-07-06,Southern Europe,Cordless Vacuums,Web-shop Organic,A. Becker,Closed Won,398.68,0,3
+D-10804,2025-09-24,2025-10-14,France,Small Kitchen Appliances,Social Media Ads,M. Hoffmann,Closed Won,110.96,0.05,20
+D-10805,2025-10-17,,North America,Cordless Vacuums,Affiliate Partner,K. Nilsson,Qualified,345.09,0.1,
+D-10806,2026-05-19,,France,Dishwashers,Retail Referral,P. Rossi,Proposal Sent,1325.42,0,
+D-10807,2025-02-06,2025-03-04,UK & Ireland,Coffee Systems,Web-shop Organic,M. Hoffmann,Closed Lost,962.6,0,26
+D-10808,2026-04-14,2026-05-13,Benelux,Cordless Vacuums,Trade Show,T. Wagner,Closed Lost,395.88,0,29
+D-10809,2025-07-04,,France,Smart Ovens,Web-shop Organic,J. Murphy,Proposal Sent,919.21,0.1,
+D-10810,2025-07-04,2025-08-07,Southern Europe,Washing Machines,Web-shop Organic,A. Becker,Closed Lost,702.98,0,34
+D-10811,2026-02-08,2026-03-08,France,Small Kitchen Appliances,Trade Show,L. Dubois,Closed Won,137.22,0.2,28
+D-10812,2026-05-07,2026-06-01,France,Coffee Systems,Web-shop Organic,T. Wagner,Closed Lost,467.38,0.15,32
+D-10813,2025-08-05,,Nordics,Dishwashers,Paid Search,M. Hoffmann,Proposal Sent,774.73,0,
+D-10814,2025-04-05,2025-04-22,North America,Smart Ovens,Affiliate Partner,K. Nilsson,Closed Lost,1601.91,0,17
+D-10815,2025-10-19,,DACH,Coffee Systems,Web-shop Organic,K. Nilsson,Negotiation,587.17,0,
+D-10816,2025-05-15,2025-06-12,France,Dishwashers,Email Campaign,J. Murphy,Closed Won,1342.16,0.05,28
+D-10817,2025-04-03,,Benelux,Cordless Vacuums,Social Media Ads,,Proposal Sent,1178.53,0,
+D-10818,2025-12-16,,Benelux,Small Kitchen Appliances,Paid Search,A. Becker,Qualified,129.72,0.05,
+D-10819,2025-10-25,2025-11-19,Nordics,Small Kitchen Appliances,Affiliate Partner,L. Dubois,Closed Lost,224.0,0,25
+D-10820,2025-09-12,2025-10-02,UK & Ireland,Coffee Systems,Affiliate Partner,J. Murphy,Closed Lost,476.31,0.1,20
+D-10821,2026-04-21,,DACH,Washing Machines,Paid Search,L. Dubois,Negotiation,685.54,0,
+D-10822,2025-04-27,,France,Washing Machines,Web-shop Organic,A. Becker,Negotiation,668.57,0.2,
+D-10823,2025-11-18,2025-12-11,Benelux,Smart Ovens,Web-shop Organic,J. Murphy,Closed Lost,1716.46,0.1,23
+D-10824,2025-08-05,2025-08-25,North America,Cordless Vacuums,Paid Search,M. Hoffmann,Closed Won,398.13,0.05,20
+D-10825,2025-01-14,2025-01-22,Nordics,Smart Ovens,Web-shop Organic,L. Dubois,Closed Won,1725.61,0.2,8
+D-10826,2025-11-07,2025-12-06,Southern Europe,Small Kitchen Appliances,Social Media Ads,T. Wagner,Closed Lost,259.28,0.2,29
+D-10827,2025-07-15,2025-08-03,France,Smart Ovens,Web-shop Organic,A. Becker,Closed Won,767.43,0.2,19
+D-10828,2025-09-05,2025-09-14,DACH,Coffee Systems,Social Media Ads,M. Hoffmann,Closed Lost,490.76,0.2,9
+D-10829,2025-04-30,2025-05-09,Benelux,Coffee Systems,Social Media Ads,A. Becker,Closed Won,971.79,0.05,9
+D-10830,2025-07-26,2025-08-20,Benelux,Smart Ovens,Retail Referral,S. Andersson,Closed Won,833.18,0.15,25
+D-10831,2026-05-23,,North America,Small Kitchen Appliances,Paid Search,K. Nilsson,Negotiation,381.99,0,
+D-10832,2025-08-26,,DACH,Dishwashers,Paid Search,T. Wagner,Negotiation,1455.32,0.1,
+D-10833,2026-04-30,2026-05-13,France,Washing Machines,Web-shop Organic,K. Nilsson,Closed Won,694.26,0.05,13
+D-10834,2025-07-16,2025-07-27,Southern Europe,Dishwashers,Web-shop Organic,J. Murphy,Closed Lost,737.89,0.1,11
+D-10835,2025-10-28,,North America,Small Kitchen Appliances,Affiliate Partner,M. Hoffmann,Negotiation,242.46,0.2,
+D-10836,2025-06-15,2025-07-10,Southern Europe,Small Kitchen Appliances,Affiliate Partner,T. Wagner,Closed Lost,118.03,0.15,25
+D-10837,2026-05-19,2026-05-22,Benelux,Coffee Systems,Web-shop Organic,M. Hoffmann,Closed Won,504.99,0.1,3
+D-10838,2026-01-01,,DACH,Smart Ovens,Paid Search,J. Murphy,Negotiation,2400.83,0,
+D-10839,2025-08-21,2025-09-25,North America,Smart Ovens,Paid Search,L. Dubois,Closed Won,810.49,0,35
+D-10840,2025-06-04,,North America,Cordless Vacuums,Email Campaign,J. Murphy,Proposal Sent,1194.93,0.15,
+D-10841,2026-04-14,,DACH,Small Kitchen Appliances,Web-shop Organic,T. Wagner,Qualified,132.07,0.2,
+D-10842,2025-02-12,2025-03-07,Nordics,Washing Machines,Email Campaign,L. Dubois,Closed Lost,627.17,0,23
+D-10843,2025-04-12,2025-05-06,Southern Europe,Cordless Vacuums,Affiliate Partner,T. Wagner,Closed Won,353.86,0,24
+D-10844,2025-01-07,2025-01-30,North America,Coffee Systems,Paid Search,K. Nilsson,Closed Won,530.42,0,23
+D-10845,2025-09-09,2025-09-22,France,Small Kitchen Appliances,Email Campaign,P. Rossi,Closed Won,264.01,0.2,13
+D-10846,2026-02-24,,UK & Ireland,Coffee Systems,Email Campaign,K. Nilsson,Qualified,1760.52,0.2,
+D-10847,2025-05-30,,Southern Europe,Cordless Vacuums,Retail Referral,T. Wagner,Proposal Sent,1154.12,0,
+D-10848,2026-03-21,2026-04-11,DACH,Cordless Vacuums,Paid Search,M. Hoffmann,Closed Won,1134.2,0,21
+D-10849,2026-03-06,2026-03-13,Southern Europe,Small Kitchen Appliances,Email Campaign,J. Murphy,Closed Lost,389.55,0.2,7
+D-10850,2025-01-09,,France,Small Kitchen Appliances,Affiliate Partner,P. Rossi,Proposal Sent,409.08,0,
